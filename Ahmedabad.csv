@@ -1,0 +1,451 @@
+,Brand,Make_Year,Fuel,KMs_Driven,Engine_Displacement,No_Of_Owner,Transmission,Mileage,Max_Power,Torque,Seats,Color,Gear_Box,Drive_Type,Steering_Type,Front_Brake_Type,Rear_Brake_Type,Acceleration,Engine_Type,Price
+0,2020 Maruti Swift Dzire,2019,Petrol,"11,935 Kms",1197 cc,1st Owner,Manual,21.21 kmpl,81.80bhp,113Nm,5,Grey,5 Speed,FWD,Power,Disc,Drum,12.6 Seconds,K Series VVT Engine,"6,80,000"
+1,2016 Nissan Terrano,2016,Diesel,"74,555 Kms",1461 cc,2nd Owner,Manual,20.45 kmpl,83.8bhp,200Nm,5,Black,5 Speed,FWD,Power,Disc,Drum,14 Seconds,K9K Diesel Engine,"4,70,500"
+2,2020 Maruti Swift Dzire,2019,Petrol,"9,379 Kms",1197 cc,1st Owner,Manual,21.21 kmpl,81.80bhp,113Nm,5,White,5 Speed,FWD,Power,Disc,Drum,12.6 Seconds,K Series VVT Engine,"6,75,000"
+3,2018 Maruti Swift,2018,Diesel,"31,824 Kms",1248 cc,1st Owner,Manual,28.4 kmpl,74bhp,190Nm,5,Red,5,FWD,Power,Disc,Drum,,DDiS 190 Engine,"6,00,000"
+4,2017 Maruti Baleno,2017,Petrol,"49,072 Kms",1197 cc,1st Owner,Manual,21.01 kmpl,81.80bhp,113Nm,5,Blue,5 Speed,FWD,Electric,Disc,Drum,12.36 seconds,1.2L VVT Engine,"6,10,000"
+5,2020 Maruti Wagon R,2020,Petrol,"10,412 Kms",998 cc,1st Owner,Manual,21.79 kmpl,67.05bhp,90Nm,5,White,5 Speed,FWD,Power,Disc,Drum,18.6 Seconds,K10B Petrol Engine,"5,06,500"
+6,2017 Maruti Baleno,2017,Petrol,"34,706 Kms",1197 cc,1st Owner,Manual,21.01 kmpl,81.80bhp,113Nm,5,Grey,5 Speed,FWD,Electric,Disc,Drum,12.36 seconds,1.2L VVT Engine,"5,20,000"
+7,2013 Maruti Swift Dzire,2012,Diesel,"80,131 Kms",1248 cc,1st Owner,Manual,23.4 kmpl,74bhp,190Nm,5,Grey,5 Speed,FWD,Power,Ventilated Disc,Drum,,DDiS Diesel Engine,"3,35,000"
+8,2013 Toyota Innova,2013,Diesel,"94,795 Kms",2494 cc,2nd Owner,Manual,12.99 kmpl,100bhp,200Nm,8,Silver,5 Speed,FWD,Power,Ventilated Disc,Leading-Trailing Drum,,In-Line Engine,"6,70,500"
+9,2016 Maruti Swift,2016,Petrol,"45,203 Kms",1197 cc,2nd Owner,Manual,20.4 kmpl,81.80bhp,113Nm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,12.6 Seconds,K Series VVT Engine,"4,60,000"
+10,2018 Honda City,2018,Petrol,"89,144 Kms",1497 cc,1st Owner,Manual,17.4 kmpl,117.6bhp,145Nm,5,Other,5 Speed,FWD,Power,Ventilated Disc,Drum,9.64 Seconds,i VTEC Engine,"7,63,500"
+11,2015 Maruti Swift Dzire,2015,Diesel,"54,457 Kms",1248 cc,1st Owner,Manual,26.59 kmpl,74bhp,190Nm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,13.8 Seconds,DDiS Diesel Engine,"4,85,000"
+12,2014 Maruti Wagon R,2014,Petrol,"42,431 Kms",998 cc,1st Owner,Manual,21.79 kmpl,67.05bhp,90Nm,5,White,5 Speed,FWD,Power,Disc,Drum,18.6 Seconds,K10B Petrol Engine,"3,25,000"
+13,2017 Maruti Wagon R,2017,Petrol,"41,220 Kms",998 cc,1st Owner,Automatic,20.51 kmpl,67bhp,90Nm,5,Grey,5 Speed,FWD,Power,Ventilated Disc,Drum,18.6 Seconds,K10B Petrol Engine,"4,25,000"
+14,Maruti Swift LDI BSIV,2014,Diesel,"1,00,821 kms",1248 CC,First Owner,Manual,25.2 kmpl,74 bhp,190Nm@ 2000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,14.8 Seconds,DDiS Diesel Engine,3.04 Lakh*
+15,Ford Figo Diesel ZXI,2012,Diesel,"1,02,456 kms",1399 CC,Second Owner,Manual,20.0 kmpl,68 bhp,160Nm@ 2000rpm,5,Grey,5 Speed,Front Wheel Drive,Power,Ventilated Discs,Drum,14.8 Seconds,Diesel Engine,1.1 Lakh*
+16,Maruti S-Cross 2017-2020 Alpha DDiS 200 SH,2017,Diesel,"86,698 kms",1248 CC,First Owner,Manual,25.1 kmpl,88.5 bhp,200Nm@ 1750rpm,5,Silver,5 Speed,FWD,Power,Disc,Disc,13.42 Seconds,DDiS 200 Diesel Engine,6.6 Lakh*
+17,Hyundai i20 Active 1.4 SX,2015,Diesel,"60,603 kms",1396 CC,First Owner,Manual,21.19 kmpl,88.73 bhp,220Nm@ 1500-2750rpm,5,White,6 Speed,FWD,Power,Disc,Drum,15 Seconds,U2 CRDI Diesel Engine,4.9 Lakh*
+18,Hyundai i20 1.4 CRDi Sportz,2012,Diesel,"1,45,814 kms",1396 CC,First Owner,Manual,23.0 kmpl,90 bhp,22.4 kgm at 1750-2750rpm,5,White,6 Speed,-,Power,Disk,Drum,12.96 Sec,Diesel Engine,2.36 Lakh*
+19,Maruti Swift Dzire ZDi,2012,Diesel,"1,95,642 kms",1248 CC,Second Owner,Manual,19.3 kmpl,73.9 bhp,190Nm@ 2000rpm,5,White,5 Speed,2 WD,Power,Ventilated Disc,Drum,-,In-Line Engine,2.5 Lakh*
+20,2019 Volkswagen Vento,2018,Diesel,"98,027 Kms",1498 cc,1st Owner,Manual,22.27 kmpl,108.6bhp,250Nm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,11.07 Seconds,TDI Diesel Engine,"6,99,000"
+21,2016 Maruti Eeco,2016,Petrol,"45,384 Kms",1196 cc,1st Owner,Manual,16.11 kmpl,72.42bhp,98Nm,5,White,5 Speed,RWD,Manual,Disc,Drum,15.7 Seconds,G12B,"3,50,000"
+22,2019 Maruti S-Presso,2019,Petrol,"24,268 Kms",998 cc,1st Owner,Manual,21.7 kmpl,67.05bhp,90nm,5,Red,5-Speed,FWD,Power,Ventilated Disc,Drum,,K10B Petrol Engine,"3,90,000"
+23,2017 Maruti Wagon R,2017,Petrol,"43,242 Kms",998 cc,1st Owner,Manual,20.51 kmpl,67.04bhp,90Nm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,18.6 Seconds,K10B Petrol Engine,"3,82,000"
+24,2020 Maruti Eeco,2020,Petrol,"17,154 Kms",1196 cc,1st Owner,Manual,16.11 kmpl,72.42bhp,98Nm,5,White,5 Speed,RWD,Manual,Disc,Drum,15.7 Seconds,G12B,"4,25,000"
+25,2014 Hyundai Verna,2014,Diesel,"65,527 Kms",1582 cc,2nd Owner,Manual,22.32 kmpl,126.32bhp,259.8Nm,5,White,6 Speed,FWD,Power,Disc,Disc,10.62 Seconds,Diesel Engine,"4,70,000"
+26,2016 Maruti Baleno,2016,Petrol,"51,205 Kms",1197 cc,1st Owner,Manual,21.4 kmpl,83.1bhp,115Nm,5,Blue,5 Speed,FWD,Power,Disc,Drum,12.36 seconds,VVT Petrol Engine,"4,70,000"
+27,2013 Maruti Swift,2013,Diesel,"72,339 Kms",1248 cc,1st Owner,Manual,22.9 kmpl,74bhp,190Nm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,,DDiS Diesel Engine,"2,90,000"
+28,Maruti Swift Dzire VXI 1.2,2019,Petrol,"9,718 kms",1197 CC,First Owner,Manual,21.21 kmpl,81.80 bhp,113Nm@ 4200rpm,5,White,5 Speed,FWD,Power,Disc,Drum,12.6 Seconds,K Series VVT Engine,6.45 Lakh*
+29,Maruti Wagon R VXI,2016,Petrol,"81,674 kms",998 CC,First Owner,Manual,21.79 kmpl,67.05 bhp,90Nm@ 3500rpm,5,White,5 Speed,FWD,Power,Disc,Drum,18.6 Seconds,K10B Petrol Engine,3.45 Lakh*
+30,Honda Brio S MT,2016,Petrol,"42,000 kms",1198 CC,First Owner,Manual,19.4 kmpl,86.8 bhp,109Nm@ 4500rpm,5,Grey,5 Speed,FWD,Power,Disc,Drum,14.5 Seconds,i-VTEC Engine,4 Lakh*
+31,Hyundai Creta 1.6 CRDi AT SX Plus,2018,Diesel,"72,000 kms",1582 CC,First Owner,Automatic,17.01 kmpl,126.2 bhp,259.9Nm@ 1900-2750rpm,5,Silver,6 Speed,FWD,Power,Disc,Drum,10.5 Seconds,U2 CRDI VGT Engine,13.25 Lakh*
+32,BMW X1 sDrive 20d xLine,2016,Diesel,"60,000 kms",1995 CC,Second Owner,Automatic,20.68 kmpl,188 bhp,400Nm@ 1750-2500rpm,5,Blue,8 Speed,FWD,Power,Disc,Disc,7.8 Seconds,Diesel Engine,21.01 Lakh*
+33,Tata Indica Vista Quadrajet VX,2013,Diesel,"1,20,000 kms",1248 CC,Second Owner,Manual,22.3 kmpl,74 bhp,190Nm@ 1750-3000rpm,5,-,5 Speed,FWD,Power,Disc,Drum,-,"4 Cylinder, Common Rail S",1.5 Lakh*
+34,Maruti Alto K10 VXI,2014,Petrol,"65,100 kms",998 CC,First Owner,Manual,23.95 kmpl,67.05 bhp,90Nm@ 3500rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,13.3 Seconds,K Series Petrol Engine,2.65 Lakh*
+35,Hyundai i20 Sportz 1.2,2013,Petrol,"65,514 kms",1197 CC,First Owner,Manual,18.5 kmpl,82.85 bhp,113.7Nm@ 4000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,-,Kappa VTVT Petrol Engine,5 Lakh*
+36,Honda City 1.5 V MT,2010,Petrol,"71,901 kms",1497 CC,Second Owner,Manual,17.0 kmpl,118 bhp,146Nm at 4800 rpm,5,White,5 Speed,FWD,Power,Disc,Drum,-,In-Line Engine,5 Lakh*
+37,Maruti Ciaz 1.4 Alpha,2017,Petrol,"42,000 kms",1373 CC,First Owner,Manual,20.73 kmpl,91.1 bhp,130Nm@ 4000rpm,5,Silver,5 Speed,FWD,Power,Ventilated Disc,Drum,14 Seconds,k14B VVT Engine,8.1 Lakh*
+38,Nissan Teana Teana,2009,Petrol,"51,023 kms",2496 CC,Third Owner,Automatic,9.1 kmpl,null bhp,5,5,Silver,5 Speed,-,Power,-,-,-,null,4 Lakh*
+39,Maruti Wagon R LXI,2012,Petrol,"75,863 kms",998 CC,First Owner,Manual,21.79 kmpl,67.05 bhp,90Nm@ 3500rpm,5,-,5 Speed,FWD,Power,Disc,Drum,18.6 Seconds,K10B Petrol Engine,2.8 Lakh*
+40,Nissan Teana Teana,2009,Petrol,"51,023 kms",2496 CC,Third Owner,Automatic,9.1 kmpl,null bhp,5,5,White,5 Speed,-,Power,-,-,-,null,4 Lakh*
+41,Maruti Wagon R LXI,2012,Petrol,"75,863 kms",998 CC,First Owner,Manual,21.79 kmpl,67.05 bhp,90Nm@ 3500rpm,5,Silver,6 Speed,FWD,Power,Disc,Drum,18.6 Seconds,K10B Petrol Engine,2.8 Lakh*
+42,Maruti Ciaz 1.3 Zeta,2018,Diesel,"54,000 kms",1248 CC,First Owner,Manual,28.09 kmpl,88.5 bhp,200Nm@ 1750rpm,5,-,5 Speed,FWD,Power,Ventilated Disc,Drum,15 Seconds,DDIS 200 Engine,7.75 Lakh*
+43,Honda City i DTEC SV,2015,Diesel,"65,000 kms",1498 CC,Second Owner,Manual,26.0 kmpl,98.6 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Disc,Drum,10 Seconds,i DTEC Diesel Engine,5.5 Lakh*
+44,Maruti Swift Dzire LDI,2018,Diesel,"75,000 kms",1248 CC,First Owner,Manual,28.4 kmpl,74.02 bhp,190Nm@ 2000rpm,5,White,6 Speed,FWD,Power,Disc,Drum,13.03 Seconds,DDiS Diesel Engine,4.75 Lakh*
+45,Mercedes-Benz E-Class E250 CDI Elegance,2011,Diesel,"87,000 kms",2143 CC,Second Owner,Automatic,14.21 kmpl,203 bhp,500Nm@ 1600-1800rpm,5,Grey,6 Speed,Rear Wheel Drive with ESP,Power,Ventilated Disc,Ventilated Disc,7.5 Seconds,4-in-line,12.5 Lakh*
+46,Toyota Corolla Altis D-4D G,2012,Diesel,"1,01,000 kms",1364 CC,First Owner,Manual,21.43 kmpl,87.2 bhp,205Nm@ 1800-2800rpm,5,White,8 Speed Tiptronic,FWD,Power,Ventilated Disc,Solid Disc,11.8 Seconds,D-4D Diesel Engine,5.25 Lakh*
+47,Toyota Innova Crysta 2016-2020 2.8 ZX AT BSIV,2019,Diesel,"68,000 kms",2755 CC,First Owner,Automatic,11.36 kmpl,171.5 bhp,360Nm@ 1200-3400rpm,7,Black,6 Speed,RWD,Power,Disc,Drum,-,1-GD FTV Engine,22 Lakh*
+48,Audi Q7 2006-2020 3.0 TDI Quattro Technology,2014,Diesel,"70,000 kms",2967 CC,First Owner,Automatic,12.07 kmpl,241.4 bhp,550Nm@ 1750-2750rpm,7,Golden,5 Speed,AWD,Power,Ventilated Disc,Ventilated Disc,7.8 Seconds,V-Type Diesel Engine,23 Lakh*
+49,Volkswagen Polo GT 1.0 TSI,2021,Petrol,"8,000 kms",999 CC,First Owner,Automatic,16.47 kmpl,108.62 bhp,175nm@ 1750-4000rpm,5,White,6 Speed,FWD,Electronic,Disc,Drum,-,1.0L TSI Petrol,9.75 Lakh*
+50,Maruti Baleno Delta Diesel,2017,Diesel,"65,000 kms",1248 CC,First Owner,Manual,27.39 kmpl,74 bhp,190Nm@ 2000rpm,5,White,6 Speed,FWD,Power,Disc,Drum,12.93 seconds,DDiS Diesel Engine,5.75 Lakh*
+51,Hyundai Verna CRDi 1.6 SX Option,2018,Diesel,"50,256 kms",1582 CC,First Owner,Manual,22.0 kmpl,126.2 bhp,259.87nm@ 1500-3000rpm,5,Red,5 Speed,FWD,Power,Disc,Drum,-,U2 VGT Diesel Engine,10.25 Lakh*
+52,Hyundai i20 2015-2017 Magna 1.4 CRDi,2017,Diesel,"45,000 kms",1396 CC,First Owner,Manual,22.54 kmpl,88.73 bhp,219.7Nm@ 1500-2750rpm,5,Blue,5 Speed,FWD,Power,Disc,Drum,11.9 Seconds,U2 CRDI Diesel Engine,6.5 Lakh*
+53,Maruti Alto LXi,2012,Petrol,"80,000 kms",796 CC,First Owner,Manual,19.7 kmpl,46.3 bhp,62Nm@ 3000rpm,5,Black,7 Speed,FWD,Power,Disc,Drum,17.7 seconds,In-Line Engine,1.9 Lakh*
+54,Maruti Vitara Brezza ZDi,2018,Diesel,"43,556 kms",1248 CC,First Owner,Manual,24.3 kmpl,88.5 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,12.36 Seconds,DDiS 200 Diesel Engine,8.25 Lakh*
+55,Audi Q3 2.0 TDI Quattro,2015,Diesel,"1,10,000 kms",1968 CC,Third Owner,Automatic,17.32 kmpl,184 bhp,380Nm@ 1750-2500rpm,5,White,5 Speed,AWD,Power,Disc,Disc,9.9 Seconds,TDI Diesel Engine,13.5 Lakh*
+56,Maruti Wagon R LXI BSIII,2006,Petrol,"80,000 kms",998 CC,Second Owner,Manual,18.9 kmpl,67.1 bhp,90Nm@ 3500rpm,5,Silver,8 Speed,FWD,Power,Ventilated Disc,Drum,-,K Series Petrol Engine,1.25 Lakh*
+57,Maruti Wagon R LXI,2015,Petrol,"89,000 kms",998 CC,First Owner,Manual,21.79 kmpl,67.05 bhp,90Nm@ 3500rpm,5,Black,5 Speed,FWD,Power,Disc,Drum,18.6 Seconds,K10B Petrol Engine,3.15 Lakh*
+58,BMW 3 Series 320d Luxury Line,2017,Diesel,"68,000 kms",1995 CC,First Owner,Automatic,22.69 kmpl,190 bhp,400Nm@ 1750-2500rpm,5,Silver,5 Speed,RWD,Power,Disc,Disc,7.2 Seconds,TwinPower Turbo 4 Cylinde,25.91 Lakh*
+59,Hyundai i10 D-lite,2011,Petrol,"1,20,000 kms",1086 CC,Second Owner,Manual,19.81 kmpl,68.1 bhp,99.1Nm@ 4500rpm,5,White,5 Speed,FWD,Manual,Ventilated Disc,Drum,-,SOHC IRDE2 Engine,1.5 Lakh*
+60,Maruti Wagon R LXI,2011,Petrol,"27,000 kms",998 CC,First Owner,Manual,20.51 kmpl,67.04 bhp,90Nm@ 3500rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,18.6 Seconds,K10B Petrol Engine,2.75 Lakh*
+61,Toyota Innova 2.5 VX (Diesel) 7 Seater,2012,Diesel,"80,000 kms",2494 CC,Second Owner,Manual,12.99 kmpl,100.6 bhp,200Nm@ 1200-3600rpm,7,-,5 Speed,RWD,Power,Ventilated Disc,Drum,13.3 Seconds,2KD-FTV Diesel Engine,5.95 Lakh*
+62,Tata Harrier XT plus,2020,Diesel,"11,000 kms",1956 CC,First Owner,Manual,17.0 kmpl,167.63 bhp,350Nm@ 1750-2500rpm,5,White,5 Speed,FWD,Power,Disc,Drum,-,Kryotec 2.0 L Turbocharged,18 Lakh*
+63,Volkswagen Vento Diesel Comfortline,2012,Diesel,"80,000 kms",1598 CC,First Owner,Manual,20.54 kmpl,103.6 bhp,250Nm@ 1500-2500rpm,5,Silver,5 speed,FWD,Power,Disc,Drum,-,Common Rail Diesel Engine,3.75 Lakh*
+64,Ford EcoSport 1.0 Ecoboost Titanium,2014,Petrol,"52,000 kms",999 CC,Second Owner,Manual,18.88 kmpl,123.37 bhp,170Nm@ 1400-4500rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,11 Seconds,Ecoboost Petrol Engine,5.25 Lakh*
+65,Hyundai Grand i10 Nios Sportz,2020,Petrol,"9,000 kms",1197 CC,First Owner,Manual,20.7 kmpl,81.86 bhp,113.75Nm@ 4000rpm,5,White,5 Speed,FWD,Electric,Disc,Drum,-,1.2 L Kappa Petrol,6.9 Lakh*
+66,Hyundai Santro Sportz,2019,Petrol,"16,234 kms",1086 CC,First Owner,Manual,20.3 kmpl,68.05 bhp,99.04Nm@ 4500rpm,5,White,5 Speed,FWD,Electric,Disc,Drum,-,1.1 L Petrol,4.75 Lakh*
+67,Toyota Etios Liva GD,2012,Diesel,"56,000 kms",1364 CC,First Owner,Manual,23.59 kmpl,null bhp,5,5,Blue,5 Speed,-,Power,-,-,-,null,3.25 Lakh*
+68,Honda Amaze VX i-Vtech,2014,Petrol,"36,000 kms",1198 CC,First Owner,Manual,18.0 kmpl,86.7 bhp,109Nm@ 4500rpm,5,White,5 Speed,FWD,Power,Disc,Drum,15 Seconds,i-VTEC Petrol Engine,5.25 Lakh*
+69,Ford Figo Diesel EXI Option,2011,Diesel,"97,000 kms",1399 CC,Second Owner,Manual,18.5 kmpl,68 bhp,160Nm@ 2000rpm,5,Silver,5 Speed,Front Wheel Drive,Power,Ventilated Discs,Drum,14.8 Seconds,Diesel Engine,1.61 Lakh*
+70,Honda Jazz V CVT,2017,Petrol,"20,000 kms",1199 CC,First Owner,Automatic,18.2 kmpl,88.7 bhp,110Nm@ 4800rpm,5,-,5 Speed,FWD,Power,Disc,Drum,13.7 Seconds,i-VTEC Petrol Engine,6.9 Lakh*
+71,Renault KWID 1.0 RXT Opt,2020,Petrol,"7,000 kms",999 CC,First Owner,Manual,21.74 kmpl,67 bhp,91Nm@ 4250rpm,5,White,5 Speed,FWD,Electric,Disc,Drum,-,Petrol Engine,4.25 Lakh*
+72,Mahindra Scorpio S10 7 Seater,2016,Diesel,"61,000 kms",2179 CC,First Owner,Manual,15.4 kmpl,120 bhp,280Nm@ 1800-2800rpm,7,Red,5 Speed,RWD,Power,Disc,Drum,19 Seconds,mHawk Diesel Engine,10.5 Lakh*
+73,Hyundai i20 Sportz Plus,2019,Petrol,"14,000 kms",1197 CC,First Owner,Manual,18.6 kmpl,81.86 bhp,117nm@ 4000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,13.2 Seconds,Kappa VTVT Petrol Engine,7.9 Lakh*
+74,Hyundai Grand i10 Sportz,2015,Petrol,"62,429 kms",1197 CC,First Owner,Manual,18.9 kmpl,81.86 bhp,113.75nm@ 4000rpm,5,Silver,5 Speed,FWD,Power,Disc,Drum,12.9 Seconds,Kappa VTVT Petrol Engine,4.5 Lakh*
+75,Toyota Innova 2.5 G4 Diesel 8-seater,2011,Diesel,"59,000 kms",2494 CC,Second Owner,Manual,12.8 kmpl,102 bhp,20.4@ 1400-3400(kgm@ rpm),8,White,6 Speed,-,Power,Ventilated Disc,Drum,17.5 seconds,In-Line Engine,4.75 Lakh*
+76,Maruti Alto K10 VXI,2014,Petrol,"65,000 kms",998 CC,First Owner,Manual,23.95 kmpl,67.05 bhp,90Nm@ 3500rpm,5,Grey,6 Speed,FWD,Power,Ventilated Disc,Drum,13.3 Seconds,K Series Petrol Engine,2.65 Lakh*
+77,Toyota Innova 2.5 VX (Diesel) 7 Seater,2016,Diesel,"96,298 kms",2494 CC,Second Owner,Manual,12.99 kmpl,100.6 bhp,200Nm@ 1200-3600rpm,7,Red,5-Speed,RWD,Power,Ventilated Disc,Drum,13.3 Seconds,2KD-FTV Diesel Engine,9.25 Lakh*
+78,Chevrolet Cruze LTZ AT,2011,Diesel,"74,000 kms",1991 CC,Second Owner,Automatic,18.1 kmpl,147.9 bhp,327Nm@ 2600rpm,4,White,5 Speed,-,Power,Disc,Disc,-,"4 Cylinder, VCDi",3.9 Lakh*
+79,Maruti SX4 S Cross DDiS 320 Delta,2015,Diesel,"60,428 kms",1598 CC,First Owner,Manual,22.7 kmpl,118 bhp,320Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Solid Disc,12 Seconds,DDiS 320 Diesel Engine,6 Lakh*
+80,Maruti Ritz VXI,2014,Petrol,"58,632 kms",1197 CC,First Owner,Manual,21.1 kmpl,85.80 bhp,114Nm@ 4000rpm,5,White,5 Speed,FWD,Power,Ventilated Disk,Drum,14.2,K Series Petrol Engine,3.4 Lakh*
+81,Chevrolet Enjoy TCDi LS 7 Seater,2013,Diesel,"85,632 kms",1248 CC,First Owner,Manual,18.2 kmpl,73.8 bhp,172.5Nm@ 1750rpm,7,White,6 Speed,FWD,Power,Disc,Drum,-,SMARTECH Diesel Engine,3.51 Lakh*
+82,Maruti Alto K10 LXI,2011,Petrol,"70,563 kms",998 CC,First Owner,Manual,23.95 kmpl,67.05 bhp,90Nm@ 3500rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,13.3 Seconds,K Series Petrol Engine,1.9 Lakh*
+83,Honda Amaze S i-Dtech,2014,Diesel,"75,632 kms",1498 CC,Second Owner,Manual,25.8 kmpl,98.6 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Disc,Drum,17 Seconds,i-DTEC Diesel Engine,4.21 Lakh*
+84,Hyundai Creta 1.6 CRDi SX,2015,Diesel,"75,000 kms",1582 CC,Second Owner,Manual,19.67 kmpl,126.2 bhp,259.9Nm@ 1900-2750rpm,5,Grey,5 Speed,FWD,Power,Disc,Drum,10.5 Seconds,U2 CRDI VGT Engine,7.75 Lakh*
+85,Toyota Innova 2.5 GX 8 STR,2012,Diesel,"95,000 kms",2494 CC,First Owner,Manual,12.8 kmpl,102 bhp,20.4@ 1400-3400(kgm@ rpm),8,Silver,5 Speed,-,Power,Ventilated Disc,Drum,17.5 seconds,In-Line Engine,6 Lakh*
+86,Hyundai EON Era Plus,2018,Petrol,"52,200 kms",814 CC,First Owner,Manual,21.1 kmpl,55.2 bhp,74.5Nm@ 4000rpm,5,White,7 Speed,FWD,Power,Disc,Drum,19 Seconds,Petrol Engine,3.25 Lakh*
+87,Volkswagen Vento Diesel Trendline,2012,Diesel,"63,940 kms",1598 CC,Second Owner,Manual,20.54 kmpl,103.6 bhp,250Nm@ 1500-2500rpm,5,Grey,4 Speed,FWD,Power,Disc,Drum,-,Common Rail Diesel Engine,3.51 Lakh*
+88,Toyota Innova 2.5 G4 Diesel 8-seater,2009,Diesel,"76,000 kms",2494 CC,Third Owner,Manual,12.8 kmpl,102 bhp,20.4@ 1400-3400(kgm@ rpm),8,White,5 Speed,-,Power,Ventilated Disc,Drum,17.5 seconds,In-Line Engine,4 Lakh*
+89,Volkswagen Tiguan 2.0 TDI Highline,2017,Diesel,"1,01,000 kms",1968 CC,First Owner,Automatic,16.65 kmpl,141 bhp,340Nm@ 1750-2750rpm,5,Silver,5-Speed,AWD,Electric,Disc,Disc,-,Common Rail Direct Inject,21.5 Lakh*
+90,Hyundai Verna 1.6 SX CRDI (O) AT,2013,Diesel,"76,000 kms",1582 CC,Second Owner,Automatic,22.32 kmpl,126.32 bhp,259.8Nm@ 1900-2750rpm,5,White,5 Speed,FWD,Power,Disc,Disc,10.62 Seconds,Diesel Engine,4.51 Lakh*
+91,Toyota Fortuner 4x2 AT,2013,Diesel,"1,27,000 kms",2982 CC,Second Owner,Automatic,12.55 kmpl,168.5 bhp,360Nm@ 1400-3200rpm,7,White,6 Speed,FWD,Power,Ventilated Disc,Drum,9.6 Seconds,D-4D Diesel Engine,14.5 Lakh*
+92,Honda Jazz ZX,2021,Petrol,"6,000 kms",1199 CC,First Owner,Manual,16.6 kmpl,88.50 bhp,110Nm@ 4800rpm,5,White,6 Speed,-,Electric,Disc,Drum,-,1.2 i-VTEC Petrol,8.25 Lakh*
+93,Volkswagen Ameo 1.0 MPI Highline Plus,2019,Petrol,"24,000 kms",999 CC,First Owner,Manual,19.44 kmpl,75 bhp,95Nm@ 3000-4300rpm,5,White,6 Speed,FWD,Power,Disc,Drum,-,MPI Petrol Engine,6.9 Lakh*
+94,Hyundai Verna CRDi 1.6 AT SX Plus,2018,Diesel,"50,000 kms",1582 CC,First Owner,Automatic,22.0 kmpl,126.2 bhp,259.87nm@ 1500-3000rpm,5,White,6 Speed,FWD,Power,Disc,Drum,-,U2 VGT Diesel Engine,9.9 Lakh*
+95,Ford Endeavour 3.2 Titanium AT 4X4,2016,Diesel,"63,000 kms",3198 CC,First Owner,Automatic,10.91 kmpl,197 bhp,470Nm@ 1750-2500rpm,7,Red,5 Speed,4WD,Power,Disc,Disc,10.86 Seconds,Diesel Engine,21 Lakh*
+96,Hyundai i20 Active 1.4 SX,2015,Diesel,"79,000 kms",1396 CC,First Owner,Manual,21.19 kmpl,88.73 bhp,220Nm@ 1500-2750rpm,5,White,5 Speed,FWD,Power,Disc,Drum,15 Seconds,U2 CRDI Diesel Engine,5.75 Lakh*
+97,Mahindra XUV500 W6,2015,Diesel,"81,000 kms",2179 CC,First Owner,Manual,16.0 kmpl,140 bhp,330Nm@ 1600-2800rpm,7,Maroon,5 Speed,FWD,Power,Disc,Disc,10 Seconds,mHawk Diesel Engine,8.5 Lakh*
+98,Honda City i VTEC V,2016,Petrol,"48,000 kms",1497 CC,First Owner,Manual,17.8 kmpl,117.3 bhp,145Nm@ 4600rpm,5,White,5 Speed,FWD,Power,Disc,Drum,10 Seconds,i VTEC Engine,7.9 Lakh*
+99,Hyundai EON Magna Plus,2016,Petrol,"43,001 kms",814 CC,First Owner,Manual,21.1 kmpl,55.2 bhp,74.5Nm@ 4000rpm,5,White,6 Speed,FWD,Power,Disc,Drum,19 Seconds,Petrol Engine,3.25 Lakh*
+100,Renault KWID RXT,2016,Petrol,"28,000 kms",799 CC,First Owner,Manual,22.3 kmpl,53.26 bhp,72Nm@ 4250rpm,5,White,5 Speed,FWD,Electric,Disc,Drum,16 Seconds,Petrol Engine,3.7 Lakh*
+101,Hyundai EON Magna Plus,2016,Petrol,"43,001 kms",814 CC,First Owner,Manual,21.1 kmpl,55.2 bhp,74.5Nm@ 4000rpm,5,Silver,6 Speed,FWD,Power,Disc,Drum,19 Seconds,Petrol Engine,3.25 Lakh*
+102,Hyundai Creta 1.6 SX Automatic Diesel,2018,Diesel,"81,800 kms",1582 CC,First Owner,Automatic,17.6 kmpl,126.2 bhp,259.87NM@ 1500-3000rpm,5,Grey,5 speed,FWD,Power,Disc,Drum,-,U2 CRDI VGT Engine,12.75 Lakh*
+103,Hyundai i10 Sportz Option,2011,Petrol,"55,000 kms",1197 CC,First Owner,Manual,20.36 kmpl,78.9 bhp,111.8Nm@ 4000rpm,5,Red,5 Speed,FWD,Power,Ventilated Disc,Drum,-,DOHC Kappa2 Engine,2.85 Lakh*
+104,Hyundai Elantra 1.6 SX,2015,Diesel,"73,398 kms",1582 CC,First Owner,Manual,22.54 kmpl,126.2 bhp,259.88Nm@ 1900-2750rpm,5,Grey,6 Speed,FWD,Power,Disc,Disc,-,U2 VGT CRDi Diesel Engine,6.75 Lakh*
+105,Renault Duster 85PS Diesel RxL Optional,2013,Diesel,"83,000 kms",1461 CC,First Owner,Manual,20.46 kmpl,83.8 bhp,200Nm@ 1900rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,-,dCi Diesel Engine,4.25 Lakh*
+106,Honda City i VTEC V,2015,Petrol,"81,000 kms",1497 CC,First Owner,Manual,17.4 kmpl,117.3 bhp,145Nm@ 4600rpm,5,Grey,CVT,FWD,Power,Disc,Drum,10 Seconds,i VTEC Engine,7.4 Lakh*
+107,Hyundai Creta 1.6 CRDi SX,2018,Diesel,"76,190 kms",1582 CC,First Owner,Manual,19.67 kmpl,126.2 bhp,259.9Nm@ 1900-2750rpm,5,Silver,6 Speed,FWD,Power,Disc,Drum,10.5 Seconds,U2 CRDI VGT Engine,10.5 Lakh*
+108,Ford Endeavour 3.2 Trend AT 4X4,2017,Diesel,"1,35,000 kms",3198 CC,First Owner,Automatic,10.91 kmpl,197.2 bhp,470Nm@ 1750-2500rpm,7,Brown,5 Speed,4WD,Power,Disc,Disc,-,Diesel Engine,21.5 Lakh*
+109,Maruti Baleno Zeta CVT,2017,Petrol,"67,000 kms",1197 CC,First Owner,Automatic,19.56 kmpl,81.80 bhp,113Nm@ 4200rpm,5,White,4 Speed,FWD,Electric,Disc,Drum,12.79 seconds,1.2L VVT Engine,6.9 Lakh*
+110,Ford Endeavour 3.2 Titanium AT 4X4,2018,Diesel,"54,000 kms",3198 CC,First Owner,Automatic,10.91 kmpl,197 bhp,470Nm@ 1750-2500rpm,7,White,5 Speed,4WD,Power,Disc,Disc,10.86 Seconds,Diesel Engine,24.9 Lakh*
+111,Mahindra Bolero 2011-2019 DI - AC BS III,2014,Diesel,"1,20,000 kms",2523 CC,First Owner,Manual,15.96 kmpl,63 bhp,180Nm@ 1440-1500rpm,9,Silver,6 Speed,2WD,Manual,Disc,Drum,30.3 Seconds,DI Turbo Diesel Engine,5 Lakh*
+112,Hyundai Verna 1.6 CRDi EX MT,2014,Diesel,"65,000 kms",1582 CC,First Owner,Manual,22.32 kmpl,126.3 bhp,259.9Nm@ 1900-2750rpm,5,Blue,6 Speed,FWD,Power,Disc,Disc,-,VGT CRDi Diesel Engine,4.75 Lakh*
+113,Tata Tiago 1.2 Revotron XE,2019,Petrol,"4,000 kms",1199 CC,First Owner,Manual,23.84 kmpl,84 bhp,114Nm@ 3500rpm,5,Silver,5 Speed,FWD,Power,Disc,Drum,14.3 Seconds,Revotron Engine,4.87 Lakh*
+114,MG Hector Sharp DCT,2020,Petrol,"12,000 kms",1451 CC,Second Owner,Automatic,13.96 kmpl,141 bhp,250Nm@ 1600-3600rpm,5,-,5 Speed,FWD,-,Disc,Disc,-,-,15.75 Lakh*
+115,Mahindra Scorpio S11 BSIV,2019,Diesel,"51,000 kms",2179 CC,First Owner,Manual,16.36 kmpl,140 bhp,320Nm@ 1500-2800rpm,7,Red,5 Speed,RWD,Power,Ventilated Disc,Drum,-,mHawk Diesel Engine,16.49 Lakh*
+116,Maruti Swift VDI BSIV,2014,Diesel,"65,000 kms",1248 CC,First Owner,Manual,25.2 kmpl,74 bhp,190Nm@ 2000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,14.8 Seconds,DDiS Diesel Engine,4.9 Lakh*
+117,Hyundai i20 Asta Opt,2021,Petrol,"10,000 kms",1197 CC,First Owner,Manual,21.0 kmpl,81.86 bhp,114.74nm@ 4200rpm,5,Red,6 Speed,-,Electric,Disc,Drum,-,1.2 l Kappa petrol,9.75 Lakh*
+118,Hyundai i20 Sportz DT,2021,Petrol,"10,000 kms",1197 CC,First Owner,Manual,21.0 kmpl,81.86 bhp,114.74nm@ 4200rpm,5,Silver,5 Speed,-,Electric,Disc,Drum,-,1.2 l Kappa petrol,8.25 Lakh*
+119,Toyota Innova 2.5 GX (Diesel) 8 Seater,2016,Diesel,"75,000 kms",2494 CC,First Owner,Manual,12.99 kmpl,100.6 bhp,200Nm@ 1200-3600rpm,8,White,5 Speed,RWD,Power,Ventilated Disc,Drum,13.3 Seconds,2KD-FTV Diesel Engine,8.75 Lakh*
+120,Tata Nexon 1.5 Revotorq XZ Plus,2018,Diesel,"60,000 kms",1497 CC,First Owner,Manual,21.5 kmpl,108.5 bhp,260Nm@ 1500-2750rpm,5,White,5 Speed,FWD,Power,Disc,Drum,13.25 Seconds,"Revotorq, 1.5L Turbocharg",7.75 Lakh*
+121,Hyundai i20 1.2 Sportz,2010,Petrol,"57,000 kms",1197 CC,First Owner,Manual,17.0 kmpl,80 bhp,"11.4 kgm at 4,000 rpm",5,White,5 Speed,FWD,Power,Disc,Drum,12.96 Sec,In-Line Engine,3 Lakh*
+122,Maruti Wagon R VXI,2015,Petrol,"47,900 kms",998 CC,First Owner,Manual,21.79 kmpl,67.05 bhp,90Nm@ 3500rpm,5,White,4 Speed,FWD,Power,Disc,Drum,18.6 Seconds,K10B Petrol Engine,3.7 Lakh*
+123,Mahindra Xylo E8,2010,Diesel,"70,000 kms",2498 CC,Second Owner,Manual,14.0 kmpl,112 bhp,260 Nm at 1800-2200 rpm,8,White,6 Speed,2 WD,Power,Ventilated Disc,Drum,-,In-Line Engine,2.3 Lakh*
+124,Hyundai Verna 1.6 VTVT S,2016,Petrol,"80,456 kms",1591 CC,First Owner,Manual,17.01 kmpl,121.3 bhp,154.9Nm@ 4200rpm,5,Black,5 Speed,FWD,Power,Disc,Drum,10.5 Seconds,VTVT Petrol Engine,6.91 Lakh*
+125,Hyundai Verna SX CRDi AT,2014,Diesel,"65,314 kms",1582 CC,First Owner,Automatic,19.08 kmpl,126.32 bhp,259.8Nm@ 1900-2750rpm,5,White,5 Speed,FWD,Power,Disc,Disc,10.62 Seconds,Diesel Engine,5.75 Lakh*
+126,Hyundai i20 2015-2017 Magna 1.4 CRDi,2017,Diesel,"52,000 kms",1396 CC,First Owner,Manual,22.54 kmpl,88.73 bhp,219.7Nm@ 1500-2750rpm,5,GOLD,7 Speed,FWD,Power,Disc,Drum,11.9 Seconds,U2 CRDI Diesel Engine,5.75 Lakh*
+127,Maruti Ertiga SHVS VDI,2017,Diesel,"65,000 kms",1248 CC,Second Owner,Manual,24.52 kmpl,88.5 bhp,200Nm@ 1750rpm,7,White,5 Speed,FWD,Power,Ventilated Disc,Drum,13.3 Seconds,D13A SHVS Engine,7.5 Lakh*
+128,Maruti Ertiga SHVS VDI,2016,Diesel,"68,000 kms",1248 CC,First Owner,Manual,24.52 kmpl,88.5 bhp,200Nm@ 1750rpm,7,White,5 Speed,FWD,Power,Ventilated Disc,Drum,13.3 Seconds,D13A SHVS Engine,6.91 Lakh*
+129,Mercedes-Benz E-Class E250 CDI Avantgrade,2014,Diesel,"31,000 kms",2143 CC,First Owner,Automatic,13.0 kmpl,201.1 bhp,500Nm@ 1600-1800rpm,5,White,5 Speed,RWD,Power,Disc,Disc,7.5 Seconds,In-Line Diesel Engine,21.5 Lakh*
+130,Toyota Innova Crysta 2.4 GX 8 STR,2020,Diesel,"43,000 kms",2393 CC,First Owner,Manual,12.0 kmpl,148 bhp,343Nm@ 1400-2800rpm,8,Grey,5 Speed,RWD,Power,Disc,Drum,-,2.4L Diesel Engine,18.5 Lakh*
+131,Maruti Ciaz VDi Option SHVS,2015,Diesel,"65,324 kms",1248 CC,First Owner,Manual,28.09 kmpl,88.5 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,15 Seconds,DDIS 200 Engine,5.25 Lakh*
+132,Toyota Innova 2.5 EV Diesel MS 8 Str BSIII,2010,Diesel,"3,08,000 kms",2494 CC,Second Owner,Manual,12.8 kmpl,102 bhp,20.4@ 1400-3400(kgm@ rpm),8,White,6 Speed,-,Manual,Ventilated Disc,Drum,17.55 seconds,In-Line Engine,6 Lakh*
+133,Ford EcoSport 1.5 TDCi Titanium BSIV,2015,Diesel,"74,000 kms",1498 CC,First Owner,Manual,22.77 kmpl,98.59 bhp,205Nm@ 1750-3250rpm,5,Grey,5 Speed,FWD,Power,Ventilated Disc,Drum,13.5 Seconds,TDCi Diesel Engine,5.75 Lakh*
+134,Tata Tiago 1.2 Revotron XTA,2018,Petrol,"31,000 kms",1199 CC,First Owner,Automatic,23.84 kmpl,84 bhp,114Nm@ 3500rpm,5,Grey,6 Speed,FWD,Power,Disc,Drum,16.31 Seconds,Revotron Engine,5.75 Lakh*
+135,Honda City i DTEC SV,2015,Diesel,"68,000 kms",1498 CC,First Owner,Manual,26.0 kmpl,98.6 bhp,200Nm@ 1750rpm,5,-,5 Speed,FWD,Power,Disc,Drum,10 Seconds,i DTEC Diesel Engine,5.85 Lakh*
+136,Maruti Ciaz VXi Plus,2016,Petrol,"81,000 kms",1373 CC,First Owner,Manual,20.73 kmpl,91.1 bhp,130Nm@ 4000rpm,5,Grey,5 Speed,FWD,Power,Ventilated Disc,Drum,14 Seconds,k14B VVT Engine,6.75 Lakh*
+137,Toyota Innova Crysta 2016-2020 2.8 GX AT 8S BSIV,2017,Diesel,"73,000 kms",2755 CC,Second Owner,Automatic,11.36 kmpl,171.5 bhp,360Nm@ 1200-3400rpm,8,Silver,5 Speed,RWD,Power,Disc,Drum,-,1-GD FTV Engine,14.25 Lakh*
+138,Hyundai Grand i10 Sportz,2016,Petrol,"51,000 kms",1197 CC,First Owner,Manual,18.9 kmpl,82 bhp,114Nm@ 4000rpm,5,Grey,5 Speed,FWD,Power,Disc,Drum,12.9 Seconds,Kappa VTVT Petrol Engine,4.9 Lakh*
+139,Honda Brio 1.2 S MT,2018,Petrol,"68,000 kms",1198 CC,First Owner,Manual,18.5 kmpl,86.8 bhp,109Nm@ 4500rpm,5,Brown,5 Speed,FWD,Power,Disc,Drum,14.5 Seconds,i-VTEC Engine,4.75 Lakh*
+140,Hyundai Grand i10 Sportz,2016,Petrol,"51,000 kms",1197 CC,First Owner,Manual,18.9 kmpl,82 bhp,114Nm@ 4000rpm,5,White,5-Speed,FWD,Power,Disc,Drum,12.9 Seconds,Kappa VTVT Petrol Engine,4.9 Lakh*
+141,Honda Brio 1.2 S MT,2018,Petrol,"68,000 kms",1198 CC,First Owner,Manual,18.5 kmpl,86.8 bhp,109Nm@ 4500rpm,5,White,6 Speed,FWD,Power,Disc,Drum,14.5 Seconds,i-VTEC Engine,4.75 Lakh*
+142,Toyota Fortuner 4x2 AT,2013,Diesel,"1,93,000 kms",2982 CC,Second Owner,Automatic,12.55 kmpl,168.5 bhp,360Nm@ 1400-3200rpm,7,Red,6 Speed,FWD,Power,Ventilated Disc,Drum,9.6 Seconds,D-4D Diesel Engine,14.5 Lakh*
+143,Datsun RediGO AMT 1.0 T Option,2020,Petrol,"3,000 kms",999 CC,First Owner,Automatic,22.5 kmpl,67 bhp,91Nm@ 4250rpm,5,White,6 Speed,2WD,Power,Disc,Drum,-,1.0L Petrol Engine,4.65 Lakh*
+144,Hyundai Sonata 2.4 GDi MT,2012,Petrol,"74,000 kms",2359 CC,Second Owner,Manual,13.44 kmpl,198.25 bhp,250Nm@ 4250rpm,5,Red,5 Speed,FWD,Power,Vantilated Disc,Solid Disc,9.43 Seconds,GDi Petrol Engine,6.5 Lakh*
+145,Toyota Innova Crysta 2016-2020 2.8 GX AT 8S BSIV,2019,Diesel,"65,000 kms",2755 CC,First Owner,Automatic,11.36 kmpl,171.5 bhp,360Nm@ 1200-3400rpm,8,Blue,5 Speed,RWD,Power,Disc,Drum,-,1-GD FTV Engine,17.51 Lakh*
+146,Toyota Corolla Altis G,2014,Petrol,"62,325 kms",1798 CC,First Owner,Manual,14.53 kmpl,138.1 bhp,173Nm@ 4000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Solid Disc,10.42Seconds,DOHC Dual VVT-i Petrol En,7.75 Lakh*
+147,Volkswagen Ameo 1.5 TDI Comfortline,2016,Diesel,"82,536 kms",1498 CC,First Owner,Manual,21.66 kmpl,108.62 bhp,250Nm@ 1500-3000rpm,5,White,CVT,FWD,Power,Ventilated Disc,Drum,11.64 Seconds,TDI Diesel Engine,4.24 Lakh*
+148,Hyundai i20 1.2 Magna,2011,Petrol,"62,354 kms",1197 CC,Second Owner,Manual,18.5 kmpl,80 bhp,"11.4 kgm at 4,000 rpm",5,White,5 Speed,-,Power,Disk,Drum,-,In-Line Engine,2.89 Lakh*
+149,Volkswagen Vento Diesel Comfortline,2013,Diesel,"58,632 kms",1598 CC,First Owner,Manual,20.54 kmpl,103.6 bhp,250Nm@ 1500-2500rpm,5,Silver,5 Speed,FWD,Power,Disc,Drum,-,Common Rail Diesel Engine,4.22 Lakh*
+150,Honda Amaze 2016-2021 VX CVT Petrol,2017,Petrol,"67,000 kms",1199 CC,First Owner,Automatic,18.3 kmpl,88.76 bhp,110Nm@ 4800rpm,5,Silver,5 Speed,FWD,Electric,Disc,Drum,15 Seconds,i-VTEC Petrol Engine,6.5 Lakh*
+151,Toyota Platinum Etios 1.4 GD,2018,Diesel,"55,000 kms",1364 CC,First Owner,Manual,23.59 kmpl,67.05 bhp,170Nm@ 1800-2400rpm,5,Silver,5 speed,FWD,Power,Ventilated DIsc,Drum,13.9 Seconds,D-4D Diesel engine,6 Lakh*
+152,Nissan Sunny XV,2013,Petrol,"60,000 kms",1498 CC,First Owner,Manual,16.95 kmpl,97.7 bhp,134Nm@ 4000rpm,5,Silver,6 Speed,FWD,Power,Ventilated Disc,Drum,-,HR15 Petrol Engine,4.25 Lakh*
+153,Nissan Terrano XL 85 PS,2016,Diesel,"65,000 kms",1461 CC,First Owner,Manual,20.45 kmpl,83.8 bhp,200Nm@ 1900rpm,5,White,6 Speed,FWD,Power,Disc,Drum,14 Seconds,K9K Diesel Engine,6.25 Lakh*
+154,Renault Duster 85PS Diesel RxS,2016,Diesel,"55,000 kms",1461 CC,First Owner,Manual,19.87 kmpl,83.8 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Disc,Drum,13.9 Seconds,dCi THP Diesel Engine,6.25 Lakh*
+155,Mahindra Thar LX 4-Str Hard Top Diesel,2020,Diesel,"10,000 kms",2184 CC,First Owner,Manual,15.2 kmpl,130 bhp,300nm@ 1600-2800rpm,4,Grey,4 Speed,4X4,Power,Disc,Drum,-,mHawk 130 Engine,14.9 Lakh*
+156,Hyundai Creta 1.6 S Automatic,2018,Diesel,"60,000 kms",1582 CC,First Owner,Automatic,17.6 kmpl,126.2 bhp,259.87NM@ 1500-3000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,-,U2 CRDI VGT Engine,11.9 Lakh*
+157,Maruti Wagon R LXI,2013,Petrol,"46,370 kms",998 CC,First Owner,Manual,20.51 kmpl,67.04 bhp,90Nm@ 3500rpm,5,Black,6 Speed,FWD,Power,Ventilated Disc,Drum,18.6 Seconds,K10B Petrol Engine,2.8 Lakh*
+158,Hyundai Verna 1.6 CRDI,2013,Diesel,"65,243 kms",1582 CC,First Owner,Manual,22.32 kmpl,126.3 bhp,259.9Nm@ 1900-2750rpm,5,Black,5 Speed,FWD,Power,Disc,Disc,-,VGT CRDi Diesel Engine,4.39 Lakh*
+159,Hyundai Xcent 1.2 CRDi S,2017,Diesel,"65,342 kms",1186 CC,First Owner,Manual,25.4 kmpl,73.97 bhp,190.25nm@ 1750-2250rpm,5,White,6 Speed,FWD,Power,Disc,Drum,-,1.2L U2 CRDi Diesel,4.65 Lakh*
+160,Skoda Octavia 2.0 TDI AT Style Plus,2017,Diesel,"65,000 kms",1968 CC,First Owner,Automatic,19.5 kmpl,141 bhp,320Nm@ 1750-3000rpm,5,Brown,5 Speed,FWD,Power,Disc,Disc,9.35 Seconds,2.0TDI Diesel Engine,13.5 Lakh*
+161,Mahindra Scorpio LX BSIV,2012,Diesel,"75,000 kms",2179 CC,First Owner,Manual,12.05 kmpl,120 bhp,290Nm@ 1800-2800rpm,9,White,5 Speed,FWD,Power,Disc,Drum,-,mHawk CRDe Engine,4.51 Lakh*
+162,Honda City i DTEC VX,2014,Diesel,"62,000 kms",1498 CC,First Owner,Manual,25.1 kmpl,98.6 bhp,200Nm@ 1750rpm,5,Silver,6 Speed,FWD,Power,Disc,Drum,10 Seconds,i DTEC Diesel Engine,5.9 Lakh*
+163,Maruti Ciaz 1.4 Alpha,2020,Petrol,"14,000 kms",1373 CC,First Owner,Manual,20.73 kmpl,91.1 bhp,130Nm@ 4000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,14 Seconds,k14B VVT Engine,10 Lakh*
+164,Nissan Micra Active XV S,2014,Petrol,"48,000 kms",1198 CC,First Owner,Manual,19.49 kmpl,67.04 bhp,104Nm@ 4000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,15 Seconds,In Line Petrol Engine,3.11 Lakh*
+165,Mahindra XUV500 W10 2WD,2015,Diesel,"90,000 kms",2179 CC,Second Owner,Manual,16.0 kmpl,140 bhp,330Nm@ 1600-2800rpm,7,White,7 Speed,FWD,Power,Disc,Disc,10 Seconds,mHawk Diesel Engine,8.25 Lakh*
+166,Hyundai i10 Magna 1.1L,2015,Petrol,"68,000 kms",1086 CC,First Owner,Manual,19.81 kmpl,68.05 bhp,99.04Nm@ 4500rpm,5,Brown,5 Speed,FWD,Power,Ventilated Disc,Drum,14.3 Seconds,IRDE2 Engine,3.75 Lakh*
+167,Hyundai i10 Era,2013,Petrol,"62,000 kms",1086 CC,First Owner,Manual,19.81 kmpl,68.05 bhp,99.04Nm@ 4500rpm,5,White,4 Speed,FWD,Power,Ventilated Disc,Drum,14.3 Seconds,IRDE2 Engine,2.75 Lakh*
+168,Volkswagen Vento 1.5 TDI Highline AT,2017,Diesel,"65,000 kms",1498 CC,First Owner,Automatic,22.15 kmpl,108.6 bhp,250Nm@ 1500-3000rpm,5,Silver,5 speed,FWD,Power,Ventilated Disc,Drum,11.07 Seconds,TDI Diesel Engine,8.75 Lakh*
+169,Mahindra Ssangyong Rexton RX7,2013,Diesel,"1,00,000 kms",2696 CC,Second Owner,Automatic,11.18 kmpl,184 bhp,402Nm@ 1600-3000rpm,7,White,5 Speed,AWD,Power,Ventilated Disc,Disc,13.5 Seconds,RX270 XVT Diesel Engine,8 Lakh*
+170,Hyundai Verna SX CRDi AT,2014,Diesel,"50,000 kms",1582 CC,Second Owner,Automatic,19.08 kmpl,126.32 bhp,259.8Nm@ 1900-2750rpm,5,White,5 Speed,FWD,Power,Disc,Disc,10.62 Seconds,Diesel Engine,5.3 Lakh*
+171,Renault Duster 85PS Diesel RxL,2014,Diesel,"65,000 kms",1461 CC,First Owner,Manual,19.87 kmpl,83.8 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,13.9 Seconds,dCi THP Diesel Engine,4.25 Lakh*
+172,Maruti Alto LXi,2010,Petrol,"46,000 kms",796 CC,First Owner,Manual,19.7 kmpl,46.3 bhp,62Nm@ 3000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,17.7 seconds,In-Line Engine,2.1 Lakh*
+173,Honda New Accord 2008-2011 2.4 MT,2008,Petrol,"85,632 kms",2354 CC,Second Owner,Manual,12.8 kmpl,177.6 bhp,222Nm@ 4300rpm,5,White,5 Speed,FWD,Power,Multilateral Disc,Solid Disc,-,DOHC i-VTEC,3 Lakh*
+174,Maruti Wagon R LXI DUO,2010,LPG,"59,024 kms",998 CC,First Owner,Manual,14.4 km/kg,61.7 bhp,85Nm@ 3500rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,-,K Series Petrol Engine,2 Lakh*
+175,Hyundai i20 Sportz 1.2,2014,Petrol,"70,000 kms",1197 CC,Second Owner,Manual,18.6 kmpl,81.83 bhp,114.7Nm@ 4000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,13.2 Seconds,Kappa VTVT Petrol Engine,5 Lakh*
+176,Ford Figo Diesel EXI,2014,Diesel,"58,000 kms",1399 CC,First Owner,Manual,20.0 kmpl,68 bhp,160Nm@ 2000rpm,5,White,5 Speed,Front Wheel Drive,Power,Ventilated Discs,Drum,14.8 Seconds,Diesel Engine,2.95 Lakh*
+177,Maruti Swift Dzire LDi,2012,Diesel,"1,00,000 kms",1248 CC,Second Owner,Manual,19.3 kmpl,73.9 bhp,190Nm@ 2000rpm,5,Silver,6-Speed,2 WD,Power,Ventilated Disc,Drum,-,In-Line Engine,2.9 Lakh*
+178,Skoda Rapid 1.6 TDI Ambition Plus,2013,Diesel,"62,000 kms",1598 CC,First Owner,Manual,20.5 kmpl,103.5 bhp,250Nm@ 1500-2500rpm,5,Silver,7 Speed,FWD,Power,Disc,Drum,-,Turbocharged Diesel Engin,4.25 Lakh*
+179,Maruti Vitara Brezza LDi Option,2017,Diesel,"45,000 kms",1248 CC,First Owner,Manual,24.3 kmpl,88.5 bhp,200Nm@ 1750rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,12.36 Seconds,DDiS 200 Diesel Engine,6.51 Lakh*
+180,Land Rover Range Rover Sport TDV6,2012,Diesel,"85,493 kms",2993 CC,First Owner,Automatic,14.7 kmpl,241.6 bhp,600Nm@ 2000rpm,5,-,5 Speed,4WD,Power,Ventilated Disc,Ventilated Disc,9.2 seconds,V-Type Engine,32 Lakh*
+181,Toyota Etios GD,2012,Diesel,"63,000 kms",1364 CC,First Owner,Manual,23.59 kmpl,null bhp,5,5,Silver,5 Speed,-,Power,-,-,-,null,3.45 Lakh*
+182,Audi Q5 2018-2020 35TDI,2018,Diesel,"67,468 kms",1968 CC,First Owner,Automatic,17.01 kmpl,188 bhp,400nm@ 1750-3000rpm,5,White,5 Speed,AWD,Power,Ventilated Disc,Disc,8.37 Seconds,TDI Quattro Engine,40 Lakh*
+183,MG Hector Sharp AT BSIV,2019,Petrol,"23,000 kms",1451 CC,First Owner,Automatic,13.96 kmpl,141 bhp,250Nm@ 1600-3600rpm,5,Black,5 Speed,FWD,-,Disc,Disc,-,-,15.75 Lakh*
+184,Maruti Wagon R VXI,2013,Petrol,"65,000 kms",998 CC,First Owner,Manual,20.51 kmpl,67.04 bhp,90Nm@ 3500rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,18.6 Seconds,K10B Petrol Engine,3 Lakh*
+185,Maruti Alto 800 LXI,2012,Petrol,"28,000 kms",796 CC,First Owner,Manual,22.74 kmpl,47.3 bhp,69Nm@ 3500rpm,5,-,5 Speed,FWD,Power,Solid Disc,Drum,19 Seconds,F8D Petrol Engine,2.45 Lakh*
+186,Volkswagen Polo 1.5 TDI Comfortline,2017,Diesel,"48,000 kms",1498 CC,First Owner,Manual,20.14 kmpl,88 bhp,230Nm@ 1500-2500rpm,5,Blue,5 Speed,FWD,Power,Disc,Drum,16.1 Seconds,TDI Diesel Engine,5.5 Lakh*
+187,Chevrolet Cruze LTZ,2011,Diesel,"56,000 kms",1991 CC,Third Owner,Manual,18.3 kmpl,147.9 bhp,327Nm@ 2600rpm,5,Black,6 Speed,-,Power,Disc,Disc,-,"4 Cylinder, VCDi",3.5 Lakh*
+188,Nissan Micra Diesel XV Premium,2013,Diesel,"52,150 kms",1461 CC,First Owner,Manual,23.08 kmpl,63.1 bhp,160Nm@ 2000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,14 Seconds,In-Line Diesel Engine,3.25 Lakh*
+189,Honda City i VTEC SV,2016,Petrol,"40,521 kms",1497 CC,First Owner,Manual,17.8 kmpl,117.3 bhp,145Nm@ 4600rpm,5,White,5 Speed,FWD,Power,Disc,Drum,10 Seconds,i VTEC Engine,7.51 Lakh*
+190,Ford Figo Diesel Titanium,2014,Diesel,"55,324 kms",1399 CC,First Owner,Manual,20.0 kmpl,68 bhp,160Nm@ 2000rpm,5,Grey,5 Speed,Front Wheel Drive,Power,Ventilated Discs,Drum,14.8 Seconds,Diesel Engine,2.71 Lakh*
+191,Skoda Superb Petrol Ambition,2011,Petrol,"65,234 kms",1798 CC,First Owner,Manual,13.1 kmpl,157.8 bhp,250Nm@ 1500-4500rpm,5,Silver,5 Speed,FWD,Power,Disc,Disc,-,Turbocharged Petrol Engin,4.49 Lakh*
+192,Honda Brio V MT,2013,Petrol,"44,000 kms",1198 CC,First Owner,Manual,19.4 kmpl,86.8 bhp,109Nm@ 4500rpm,5,White,6 Speed,FWD,Power,Disc,Drum,-,i-VTEC Engine,3.51 Lakh*
+193,Maruti Alto K10 LXI,2011,Petrol,"60,000 kms",998 CC,First Owner,Manual,20.92 kmpl,67.1 bhp,90Nm@ 3500rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,13.3Seconds,K Series Petrol Engine,1.75 Lakh*
+194,Volkswagen Vento Diesel Highline,2011,Diesel,"75,000 kms",1598 CC,Second Owner,Manual,20.54 kmpl,103.6 bhp,250Nm@ 1500-2500rpm,5,White,6 Speed,FWD,Power,Disc,Drum,-,Common Rail Diesel Engine,2.9 Lakh*
+195,Hyundai EON 1.0 Kappa Magna Plus Optional,2015,Petrol,"22,000 kms",998 CC,First Owner,Manual,20.3 kmpl,68.05 bhp,94.14Nm@ 3500rpm,5,White,5 Speed,FWD,Power,Disc,Drum,15 Seconds,Kappa Engine,2.75 Lakh*
+196,Land Rover Freelander 2 TD4 S,2012,Diesel,"1,15,880 kms",2179 CC,First Owner,Automatic,0.0 kmpl,115 bhp,400 Nm /2000 rpm,5,Grey,8 Speed,4WD,Power,Ventilated Disc,Disc,-,In-Line Engine,10.5 Lakh*
+197,Ford Endeavour 3.2 Titanium AT 4X4,2018,Diesel,"75,000 kms",3198 CC,First Owner,Automatic,10.91 kmpl,197 bhp,470Nm@ 1750-2500rpm,7,Silver,5 Speed,4WD,Power,Disc,Disc,10.86 Seconds,Diesel Engine,25.5 Lakh*
+198,Audi A3 35 TDI Premium Plus,2015,Diesel,"60,000 kms",1968 CC,Second Owner,Automatic,20.38 kmpl,143 bhp,320Nm@ 1750-3000rpm,5,Maroon,5 Speed,FWD,Power,Ventilated Disc,Disc,8.6 Seconds,TDI Diesel Engine,15 Lakh*
+199,Maruti Ciaz Alpha Diesel,2018,Diesel,"96,000 kms",1248 CC,First Owner,Manual,28.09 kmpl,88.50 bhp,200Nm@ 1750rpm,5,White,8 Speed,FWD,Power,Ventilated Disc,Drum,-,DDIS Diesel Engine,7.75 Lakh*
+200,Audi A4 35 TDI Premium,2015,Diesel,"63,000 kms",1968 CC,First Owner,Automatic,17.11 kmpl,174.33 bhp,380Nm@ 1750-2500rpm,5,White,7 Speed,FWD,Power,Ventilated Disc,Disc,7.9 Seconds,TDI Diesel Engine,18 Lakh*
+201,Mercedes-Benz E-Class E250 CDI Elegance,2011,Diesel,"1,16,000 kms",2143 CC,Second Owner,Automatic,14.21 kmpl,203 bhp,500Nm@ 1600-1800rpm,5,Black,7 Speed,Rear Wheel Drive with ESP,Power,Ventilated Disc,Ventilated Disc,7.5 Seconds,4-in-line,10.5 Lakh*
+202,Mahindra Thar CRDe ABS,2017,Diesel,"48,000 kms",2498 CC,First Owner,Manual,16.55 kmpl,105 bhp,247Nm@ 1800-2000rpm,6,Red,5 Speed,4WD,Power,Disc,Drum,-,NEF TCI-CRDe Engine,8.25 Lakh*
+203,Audi A6 2.0 TDI,2013,Diesel,"71,000 kms",1968 CC,First Owner,Automatic,17.68 kmpl,174.33 bhp,380Nm@ 1750-2500rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Ventilated Disc,8.2 Seconds,TDI Diesel Engine,16.9 Lakh*
+204,Volkswagen Vento 1.5 TDI Highline AT,2016,Diesel,"86,000 kms",1498 CC,First Owner,Automatic,22.15 kmpl,108.6 bhp,250Nm@ 1500-3000rpm,5,Grey,5 Speed,FWD,Power,Ventilated Disc,Drum,11.07 Seconds,TDI Diesel Engine,6.9 Lakh*
+205,Mercedes-Benz C-Class 220 CDI AT,2011,Diesel,"70,800 kms",2143 CC,First Owner,Automatic,14.84 kmpl,170 bhp,400Nm@ 1400-2800rpm,5,White,Six Speed Manual Transmission,RWD,Power,Ventilated Disc,Solid Disc,8.5 seconds,CDI Blue Efficiency Engin,12.5 Lakh*
+206,Hyundai i20 Magna Plus,2020,Petrol,"33,000 kms",1197 CC,First Owner,Manual,18.6 kmpl,81.86 bhp,117nm@ 4000rpm,5,Grey,5 Speed,FWD,Power,Disc,Drum,13.2 Seconds,Kappa VTVT Petrol Engine,6.75 Lakh*
+207,Mahindra TUV 300 T10,2019,Diesel,"70,000 kms",1493 CC,First Owner,Manual,18.49 kmpl,100 bhp,240Nm@ 1600-2800rpm,7,White,5 Speed,RWD,Power,Disc,Drum,13.9 Seconds,mHawk 100 Diesel Engine,8.75 Lakh*
+208,Toyota Innova Crysta 2016-2020 2.4 VX MT BSIV,2016,Diesel,"1,03,000 kms",2393 CC,First Owner,Manual,13.68 kmpl,147.8 bhp,343Nm@ 1400-2800rpm,7,Golden,5 Speed,RWD,Power,Disc,Drum,-,2-GD FTV Engine,14 Lakh*
+209,Volkswagen Passat 1.8 TSI MT,2010,Petrol,"65,324 kms",1798 CC,First Owner,Manual,14.3 kmpl,160 bhp,250Nm@ 1500~4500rpm,5,Grey,6-Speed DCT,Two Wheel Drive,Power,Disc,Disc,8.6,TSI,5.25 Lakh*
+210,Hyundai Santro Xing GLS,2008,Petrol,"55,000 kms",1086 CC,Second Owner,Manual,17.92 kmpl,62.1 bhp,96.1Nm@ 3000rpm,5,Maroon,5 Speed,FWD,Power,Ventilated Disc,Drum,-,Petrol Engine,1.75 Lakh*
+211,Toyota Fortuner 4x2 AT,2014,Diesel,"1,01,835 kms",2982 CC,First Owner,Automatic,12.55 kmpl,168.5 bhp,360Nm@ 1400-3200rpm,7,Silver,8 Speed,FWD,Power,Ventilated Disc,Drum,9.6 Seconds,D-4D Diesel Engine,14 Lakh*
+212,Mercedes-Benz E-Class E250 CDI Avantgarde,2014,Diesel,"49,000 kms",2143 CC,Second Owner,Automatic,14.21 kmpl,203 bhp,500Nm@ 1600-1800rpm,5,Cherry Red,6 Speed,Rear Wheel Drive with ESP,Power,Ventilated Disc,Ventilated Disc,7.5 Seconds,4-in-line,18.5 Lakh*
+213,MG Hector Sharp DCT,2021,Petrol,"16,000 kms",1451 CC,First Owner,Automatic,0.0 kmpl,141 bhp,250Nm@ 1600-3600rpm,5,White,6 Speed,FWD,Power,Disc,Disc,-,1.5 L Turbocharged Intercooled,18.75 Lakh*
+214,Maruti Swift Dzire Tour 2012-2018 LDI,2018,Diesel,"75,000 kms",1248 CC,First Owner,Manual,23.4 kmpl,74 bhp,190Nm@ 2000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,14.85 Seconds,DDiS Diesel Engine,4.75 Lakh*
+215,Volvo XC60 D4 SUMMUM,2014,Diesel,"1,14,000 kms",1984 CC,First Owner,Automatic,14.7 kmpl,181 bhp,400Nm@ 1500-2750rpm,5,White,5 Speed,FWD,Power,Disc,Disc,-,Turbo Diesel Engine,16.35 Lakh*
+216,Mahindra XUV500 AT W8 FWD,2015,Diesel,"77,708 kms",2179 CC,Second Owner,Automatic,16.0 kmpl,140 bhp,330Nm@ 1600-2800rpm,7,Black,5 Speed,FWD,Power,Disc,Disc,10 Seconds,mHawk Diesel Engine,8 Lakh*
+217,BMW 5 Series 520d,2012,Diesel,"68,000 kms",1995 CC,First Owner,Automatic,18.48 kmpl,177 bhp,"35.7@ 1,750-3,000(kgm@ rpm)",5,Maroon,6 Speed,-,Power,Ventilated discs,Ventilated discs,8.3 seconds,In-Line Engine,14.95 Lakh*
+218,Maruti Eeco 5 STR With AC Plus HTR CNG,2012,CNG,"80,000 kms",1196 CC,Fourth & Above Owner,Manual,15.1 km/kg,73 bhp,101Nm@ 3000rpm,5,White,6 Speed,RWD,Power,Ventilated Disc,Drum,-,In-Line Engine,2.3 Lakh*
+219,Volkswagen Polo 2015-2019 1.2 MPI Highline,2015,Petrol,"33,000 kms",1199 CC,First Owner,Manual,16.2 kmpl,74 bhp,110Nm@ 3000-4300rpm,5,White,5 Speed,FWD,Power,Disc,Drum,14.2 Seconds,MPI Petrol Engine,4.61 Lakh*
+220,Maruti Ciaz 1.4 Zeta,2017,Petrol,"44,000 kms",1373 CC,First Owner,Manual,20.73 kmpl,91.1 bhp,130Nm@ 4000rpm,5,Silver,5 Speed,FWD,Power,Ventilated Disc,Drum,14 Seconds,k14B VVT Engine,7.75 Lakh*
+221,Renault Duster 110PS Diesel RxZ,2012,Diesel,"60,000 kms",1461 CC,Second Owner,Manual,19.01 kmpl,108.45 bhp,248Nm@ 2250rpm,5,Brown,6 Speed,FWD,Power,Ventilated Disc,Drum,-,dCi Diesel Engine,3.51 Lakh*
+222,Ford Aspire 1.5 Ti-VCT Titanium,2016,Petrol,"27,000 kms",1499 CC,First Owner,Automatic,17.01 kmpl,110.5 bhp,136Nm@ 4250rpm,5,-,5 Speed CVT,FWD,Power,Ventilated Disc,Drum,15.7 Seconds,Ti-VCT Petrol Engine,5.5 Lakh*
+223,Renault KWID RXT,2017,Petrol,"20,000 kms",799 CC,First Owner,Manual,25.17 kmpl,53.3 bhp,72Nm@ 4386rpm,5,Silver,5-Speed,FWD,Power,Disc,Drum,16 Seconds,Petrol Engine,3.75 Lakh*
+224,Toyota Innova 2.5 GX (Diesel) 8 Seater,2012,Diesel,"1,47,234 kms",2494 CC,Second Owner,Manual,12.99 kmpl,100 bhp,200Nm@ 1400-3400rpm,8,Grey,5 Speed,FWD,Power,Ventilated Disc,Leading-Trailing Drum,-,In-Line Engine,5.67 Lakh*
+225,Renault Duster 110PS Diesel RXZ Optional with Nav,2013,Diesel,"65,000 kms",1461 CC,First Owner,Manual,19.01 kmpl,108.45 bhp,248Nm@ 2250rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,-,dCi Diesel Engine,4.15 Lakh*
+226,Honda City i VTEC CVT VX,2017,Petrol,"76,653 kms",1497 CC,First Owner,Automatic,18.0 kmpl,117.3 bhp,145Nm@ 4600rpm,5,Grey,5 Speed,FWD,Power,Disc,Drum,10 Seconds,i VTEC Engine,9.5 Lakh*
+227,Datsun RediGO T Option,2017,Petrol,"38,000 kms",799 CC,First Owner,Manual,22.7 kmpl,53.64 bhp,72Nm@ 4386rpm,5,Blue,5 Speed,2WD,Power,Disc,Drum,-,0.8L Petrol Engine,3.25 Lakh*
+228,Mahindra Bolero 2011-2019 SLE,2012,Diesel,"1,70,000 kms",2523 CC,First Owner,Manual,15.96 kmpl,62.1 bhp,195Nm@ 1400-2200rpm,7,Silver,6 Speed,RWD,Power,Disc,Drum,30.3 Seconds,M2DiCR Diesel Engine,3.5 Lakh*
+229,Hyundai i20 Sportz 1.4 CRDi,2016,Diesel,"58,000 kms",1396 CC,First Owner,Manual,22.54 kmpl,88.73 bhp,219.7Nm@ 1500-2750rpm,5,Silver,5 Speed,FWD,Power,Disc,Drum,11.9 Seconds,U2 CRDI Diesel Engine,5.75 Lakh*
+230,Toyota Fortuner 4x2 Manual,2014,Diesel,"1,14,000 kms",2982 CC,First Owner,Manual,13.0 kmpl,168.5 bhp,343Nm@ 1400-3400rpm,7,Grey,5 Speed,FWD,Power,Ventilated Disc,Drum,9.6 Seconds,D-4D Diesel Engine,13.5 Lakh*
+231,Maruti Alto 800 LXI,2012,Petrol,"28,000 kms",796 CC,First Owner,Manual,22.74 kmpl,47.3 bhp,69Nm@ 3500rpm,5,White,6 Speed,FWD,Power,Solid Disc,Drum,19 Seconds,F8D Petrol Engine,2.45 Lakh*
+232,Mahindra XUV500 W10 1.99 mHawk,2016,Diesel,"56,000 kms",1997 CC,First Owner,Manual,16.0 kmpl,140 bhp,320Nm@ 1600-2800rpm,7,-,9 Speed,FWD,Power,Disc,Disc,10 Seconds,mHawk Diesel Engine,9.5 Lakh*
+233,Maruti Alto 800 VXI,2018,Petrol,"22,874 kms",796 CC,First Owner,Manual,24.7 kmpl,47.3 bhp,69Nm@ 3500rpm,5,White,6 Speed,FWD,Power,Solid Disc,Drum,19 Seconds,F8D Petrol Engine,4 Lakh*
+234,Toyota Fortuner 4x2 Manual,2012,Diesel,"86,500 kms",2982 CC,First Owner,Manual,13.0 kmpl,168.5 bhp,343Nm@ 1400-3400rpm,7,White,6 Speed,FWD,Power,Ventilated Disc,Drum,9.6 Seconds,D-4D Diesel Engine,11.75 Lakh*
+235,MG Hector Sharp Diesel MT,2019,Diesel,"32,000 kms",1956 CC,First Owner,Manual,17.41 kmpl,167.68 bhp,350Nm@ 1750-2500rpm,5,White,5 Speed,FWD,-,Disc,Disc,-,-,17.75 Lakh*
+236,Land Rover Range Rover Evoque 2.0 TD4 HSE Dynamic,2018,Diesel,"36,000 kms",1999 CC,First Owner,Automatic,15.68 kmpl,177 bhp,430Nm@ 1750-2500rpm,5,Silver,5 Speed,4WD,Power,Disc,Disc,9.0 Seconds,TD4 Diesel Engine,45 Lakh*
+237,Mahindra XUV500 W10 2WD,2017,Diesel,"64,000 kms",2179 CC,First Owner,Manual,16.0 kmpl,140 bhp,330Nm@ 1600-2800rpm,7,White,5 Speed,FWD,Power,Disc,Disc,10 Seconds,mHawk Diesel Engine,12.25 Lakh*
+238,Renault Duster 110PS Diesel RxZ,2012,Diesel,"85,369 kms",1461 CC,Second Owner,Manual,19.01 kmpl,108.45 bhp,248Nm@ 2250rpm,5,Silver,5 Speed CVT,FWD,Power,Ventilated Disc,Drum,-,dCi Diesel Engine,4 Lakh*
+239,Toyota Innova 2.5 GX (Diesel) 8 Seater,2011,Diesel,"85,000 kms",2494 CC,First Owner,Manual,12.99 kmpl,100.6 bhp,200Nm@ 1400-3400rpm,8,Red,5 Speed,RWD,Power,Ventilated Disc,Leading-Trailing Drum,13.3 Seconds,2KD-FTV Diesel Engine,5.75 Lakh*
+240,Mahindra Scorpio SLX 2.6 Turbo 8 Str,2008,Diesel,"75,000 kms",2179 CC,First Owner,Manual,10.5 kmpl,120 bhp,290Nm@ 1800-2800rpm,7,Red,6 Speed,2WD,Power,Disc,Drum,16.5 seconds,In-Line Engine,3.25 Lakh*
+241,Honda Amaze S i-Dtech,2013,Diesel,"61,000 kms",1498 CC,First Owner,Manual,25.8 kmpl,98.6 bhp,200Nm@ 1750rpm,5,White,9 Speed,FWD,Power,Disc,Drum,17 Seconds,i-DTEC Diesel Engine,3 Lakh*
+242,Honda City i VTEC CVT VX,2016,Petrol,"40,000 kms",1497 CC,First Owner,Automatic,18.0 kmpl,117.3 bhp,145Nm@ 4600rpm,5,White,6 Speed,FWD,Power,Disc,Drum,10 Seconds,i VTEC Engine,8.51 Lakh*
+243,Maruti Wagon R VXI Minor,2010,Petrol,"32,000 kms",1061 CC,First Owner,Manual,18.9 kmpl,67 bhp,84Nm@ 3500rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,-,FC Petrol Engine,2.51 Lakh*
+244,MG Hector Sharp Diesel MT,2019,Diesel,"32,000 kms",1956 CC,First Owner,Manual,17.41 kmpl,167.68 bhp,350Nm@ 1750-2500rpm,5,Grey,5 Speed,FWD,-,Disc,Disc,-,-,17.75 Lakh*
+245,Land Rover Range Rover Evoque 2.0 TD4 HSE Dynamic,2018,Diesel,"36,000 kms",1999 CC,First Owner,Automatic,15.68 kmpl,177 bhp,430Nm@ 1750-2500rpm,5,Blue,6 Speed,4WD,Power,Disc,Disc,9.0 Seconds,TD4 Diesel Engine,45 Lakh*
+246,Mahindra XUV500 W10 2WD,2017,Diesel,"64,000 kms",2179 CC,First Owner,Manual,16.0 kmpl,140 bhp,330Nm@ 1600-2800rpm,7,White,5 Speed,FWD,Power,Disc,Disc,10 Seconds,mHawk Diesel Engine,12.25 Lakh*
+247,Toyota Innova 2.5 V Diesel 8-seater,2010,Diesel,"1,38,000 kms",2494 CC,Second Owner,Manual,12.8 kmpl,102 bhp,20.4@ 1400-3400(kgm@ rpm),8,White,5 Speed,-,Power,Ventilated Disc,Drum,17.5 seconds,In-Line Engine,5.9 Lakh*
+248,Toyota Etios V,2011,Petrol,"74,000 kms",1496 CC,First Owner,Manual,17.6 kmpl,null bhp,5,5,Red,5 Speed,-,Power,-,-,-,null,3.75 Lakh*
+249,Honda Brio VX AT,2013,Petrol,"33,000 kms",1198 CC,First Owner,Automatic,16.5 kmpl,86.8 bhp,109Nm@ 4500rpm,5,Red,5 Speed,FWD,Power,Disc,Drum,16 Seconds,i-VTEC Engine,4.5 Lakh*
+250,Mahindra XUV500 W8 2WD,2013,Diesel,"68,000 kms",2179 CC,First Owner,Manual,15.1 kmpl,140 bhp,330Nm@ 1600-2800rpm,7,White,5 Speed,FWD,Power,Disc & Caliper Type,Disc & Caliper Type,12.5 Seconds,mHawk Diesel Engine,5.9 Lakh*
+251,Volkswagen Polo Diesel Highline 1.2L,2013,Diesel,"53,000 kms",1199 CC,Second Owner,Manual,22.07 kmpl,73.9 bhp,180Nm@ 2000rpm,5,Silver,5 Speed,FWD,Power,Disc,Drum,14.4 Seconds,In-Line Diesel Engine,3.9 Lakh*
+252,Honda Mobilio S i DTEC,2015,Diesel,"70,000 kms",1498 CC,First Owner,Manual,24.2 kmpl,98.6 bhp,200Nm@ 1750rpm,7,Silver,6 Speed,FWD,Power,Disc,Drum,14 Seconds,i-DTEC Engine,5.5 Lakh*
+253,Honda Amaze VX i-DTEC,2013,Diesel,"74,000 kms",1498 CC,First Owner,Manual,25.8 kmpl,98.6 bhp,200Nm@ 1750rpm,5,-,5 Speed,FWD,Power,Disc,Drum,17 Seconds,i-DTEC Diesel Engine,3.75 Lakh*
+254,Mahindra TUV 300 T8 AMT,2018,Diesel,"22,000 kms",1493 CC,First Owner,Automatic,18.49 kmpl,100 bhp,230Nm@ 1500-2250rpm,7,White,6 Speed,RWD,Power,Disc,Drum,13.9 Seconds,mHawk 80 Diesel Engine,7 Lakh*
+255,Maruti Alto 800 VXI,2018,Petrol,"22,874 kms",796 CC,First Owner,Manual,24.7 kmpl,47.3 bhp,69Nm@ 3500rpm,5,White,5 Speed,FWD,Power,Solid Disc,Drum,19 Seconds,F8D Petrol Engine,4 Lakh*
+256,Toyota Fortuner 4x2 Manual,2012,Diesel,"86,500 kms",2982 CC,First Owner,Manual,13.0 kmpl,168.5 bhp,343Nm@ 1400-3400rpm,7,White,6 Speed,FWD,Power,Ventilated Disc,Drum,9.6 Seconds,D-4D Diesel Engine,11.75 Lakh*
+257,Hyundai Verna CRDi 1.6 SX Option,2018,Diesel,"81,000 kms",1582 CC,First Owner,Manual,22.0 kmpl,126.2 bhp,259.87nm@ 1500-3000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,-,U2 VGT Diesel Engine,9.75 Lakh*
+258,Nissan Terrano XL Plus 85 PS,2014,Diesel,"64,100 kms",1461 CC,First Owner,Manual,20.45 kmpl,83.8 bhp,200Nm@ 1900rpm,5,Black,5 Speed,FWD,Power,Disc,Drum,14 Seconds,K9K Diesel Engine,4.75 Lakh*
+259,Hyundai Santa Fe 2WD AT,2014,Diesel,"97,000 kms",2199 CC,First Owner,Automatic,13.01 kmpl,194.3 bhp,436.39Nm@ 1800-2500rpm,7,White,6 Speed,FWD,Power,Ventilated Disc,Solid Disc,11.2 Seconds,CRDi Diesel Engine,12.51 Lakh*
+260,Hyundai Grand i10 1.2 CRDi Magna,2017,Diesel,"44,500 kms",1186 CC,First Owner,Manual,24.0 kmpl,73.97 bhp,190.24nm@ 1750-2250rpm,5,White,5 Speed,FWD,Power,Disc,Drum,13.21 Seconds,U2 CRDi Diesel Engine,5.25 Lakh*
+261,Honda Jazz 1.5 V i DTEC,2016,Diesel,"66,000 kms",1498 CC,First Owner,Manual,27.3 kmpl,98.6 bhp,200Nm@ 1750rpm,5,Silver,5 Speed,FWD,Power,Disc,Drum,13.7 Seconds,i-DTEC Diesel Engine,5.75 Lakh*
+262,Volkswagen Polo Diesel Comfortline 1.2L,2011,Diesel,"58,000 kms",1199 CC,First Owner,Manual,22.07 kmpl,73.9 bhp,180Nm@ 2000rpm,5,Orange,5 Speed,FWD,Power,Disc,Drum,14.4 Seconds,In-Line Diesel Engine,2.75 Lakh*
+263,Maruti Wagon R LXI BS IV,2010,Petrol,"66,384 kms",998 CC,Second Owner,Manual,18.9 kmpl,67.1 bhp,90Nm@ 3500rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,-,K Series Petrol Engine,2.35 Lakh*
+264,Hyundai i20 1.4 Asta,2018,Diesel,"62,000 kms",1396 CC,First Owner,Manual,22.54 kmpl,88.73 bhp,219.7Nm@ 1500-2750rpm,5,White,5-Speed,FWD,Power,Disc,Drum,11.9 Seconds,U2 CRDI Diesel Engine,7.25 Lakh*
+265,Maruti Swift Dzire VDI,2014,Diesel,"48,000 kms",1248 CC,First Owner,Manual,23.4 kmpl,74 bhp,190Nm@ 2000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,-,DDiS Diesel Engine,4.5 Lakh*
+266,Mercedes-Benz E-Class E250 CDI Avantgarde,2013,Diesel,"78,600 kms",2143 CC,First Owner,Automatic,14.21 kmpl,203 bhp,500Nm@ 1600-1800rpm,5,White,5 Speed,Rear Wheel Drive with ESP,Power,Ventilated Disc,Ventilated Disc,7.5 Seconds,4-in-line,21.5 Lakh*
+267,Honda New Accord 2011-2014 2.4 M/T,2013,Petrol,"59,000 kms",2354 CC,First Owner,Manual,12.8 kmpl,177.6 bhp,222Nm@ 4300rpm,5,Red,6 Speed,FWD,Power,Multilateral Disc,Solid Disc,-,DOHC i-VTEC,6.9 Lakh*
+268,Maruti SX4 S Cross DDiS 320 Alpha,2016,Diesel,"62,000 kms",1598 CC,First Owner,Manual,22.7 kmpl,118 bhp,320Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Solid Disc,12 Seconds,DDiS 320 Diesel Engine,5.9 Lakh*
+269,Datsun RediGO 1.0 T Option,2017,Petrol,"25,000 kms",999 CC,First Owner,Manual,22.5 kmpl,67 bhp,91Nm@ 4250rpm,5,White,5 Speed,2WD,Power,Disc,Drum,-,1.0L Petrol Engine,2.51 Lakh*
+270,Hyundai Santro Xing GLS,2011,Petrol,"42,000 kms",1086 CC,First Owner,Manual,17.92 kmpl,62.1 bhp,96.1Nm@ 3000rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,-,Petrol Engine,2.31 Lakh*
+271,Chevrolet Cruze LTZ,2011,Diesel,"55,000 kms",1991 CC,First Owner,Manual,18.3 kmpl,147.9 bhp,327Nm@ 2600rpm,5,White,9 Speed,-,Power,Disc,Disc,-,"4 Cylinder, VCDi",3.9 Lakh*
+272,Toyota Fortuner 2016-2021 2.8 2WD MT,2018,Diesel,"49,000 kms",2755 CC,First Owner,Manual,14.24 kmpl,174.5 bhp,420Nm@ 1400-2600rpm,7,Grey,5 Speed,RWD,Power,Ventilated Disc,Ventilated Disc,-,1-GD FTV Engine,27 Lakh*
+273,Maruti Ciaz Sigma BSIV,2019,Petrol,"33,000 kms",1462 CC,First Owner,Manual,21.56 kmpl,103.25 bhp,138Nm@ 4400rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,-,k15B VVT Engine,7.25 Lakh*
+274,Toyota Etios Liva G,2014,Petrol,"39,000 kms",1197 CC,First Owner,Manual,17.71 kmpl,78.9 bhp,104Nm@ 3100rpm,5,Grey,6 Speed,FWD,Power,Ventilated Disc,Drum,14 Seconds,Petrol Engine,4 Lakh*
+275,MG Hector Sharp AT BSIV,2020,Petrol,"15,000 kms",1451 CC,First Owner,Automatic,13.96 kmpl,141 bhp,250Nm@ 1600-3600rpm,5,Black,5 Speed,FWD,-,Disc,Disc,-,-,17.51 Lakh*
+276,Mercedes-Benz GL-Class 220d 4MATIC Sport,2017,Diesel,"31,500 kms",2143 CC,First Owner,Automatic,17.9 kmpl,170 bhp,400Nm@ 1400-2800rpm,5,Black,5 Speed,AWD,Power,Disc,Drum,8.3 Sec,Diesel Engine,38.75 Lakh*
+277,Volkswagen Polo Diesel Trendline 1.2L,2012,Diesel,"83,000 kms",1199 CC,First Owner,Manual,22.07 kmpl,73.9 bhp,180Nm@ 2000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,14.4 Seconds,In-Line Diesel Engine,3 Lakh*
+278,Maruti Ciaz VDi Plus SHVS,2015,Diesel,"58,000 kms",1248 CC,First Owner,Manual,28.09 kmpl,88.5 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,15 Seconds,DDIS 200 Engine,5.15 Lakh*
+279,Tata Harrier XZ Plus,2020,Diesel,"56,944 kms",1956 CC,First Owner,Manual,17.0 kmpl,167.63 bhp,350Nm@ 1750-2500rpm,5,Silver,5 Speed,FWD,Power,Disc,Drum,-,Kryotec 2.0 L Turbocharged,18 Lakh*
+280,Honda Amaze SX i-DTEC,2014,Diesel,"90,000 kms",1498 CC,Third Owner,Manual,25.8 kmpl,98.6 bhp,200Nm@ 1750rpm,5,Black,5 Speed,FWD,Power,Disc,Drum,17 Seconds,i-DTEC Diesel Engine,3.7 Lakh*
+281,Volkswagen Vento Diesel Trendline,2011,Diesel,"79,000 kms",1598 CC,First Owner,Manual,20.54 kmpl,103.6 bhp,250Nm@ 1500-2500rpm,5,Black,5,FWD,Power,Disc,Drum,-,Common Rail Diesel Engine,3.25 Lakh*
+282,Honda Civic 1.8 V MT,2007,Petrol,"77,000 kms",1799 CC,First Owner,Manual,13.5 kmpl,130 bhp,172Nm@ 4300rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Disc,-,In-Line Engine,2.25 Lakh*
+283,Maruti Wagon R LXI Minor,2009,Petrol,"58,000 kms",1061 CC,Second Owner,Manual,18.9 kmpl,67 bhp,84Nm@ 3500rpm,5,Brown,5 Speed,FWD,Power,Ventilated Disc,Drum,-,FC Petrol Engine,1.7 Lakh*
+284,Maruti Eeco 5 Seater AC,2018,Petrol,"64,000 kms",1196 CC,First Owner,Manual,16.11 kmpl,72.42 bhp,98Nm@ 3000rpm,5,Grey,5 Speed,RWD,Manual,Disc,Drum,15.7 Seconds,G12B,4.75 Lakh*
+285,Maruti Vitara Brezza ZDi Plus AMT Dual Tone,2017,Diesel,"72,000 kms",1248 CC,First Owner,Automatic,24.3 kmpl,88.5 bhp,200Nm@ 1750rpm,5,-,6 Speed,FWD,Power,Ventilated Disc,Drum,12.36 Seconds,DDiS 200 Diesel Engine,7.91 Lakh*
+286,Maruti Swift VDI,2014,Diesel,"93,000 kms",1248 CC,First Owner,Manual,28.4 kmpl,74 bhp,190Nm@ 2000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,-,DDiS 190 Engine,4.12 Lakh*
+287,Maruti Ritz VDi,2015,Diesel,"1,09,479 kms",1248 CC,First Owner,Manual,23.2 kmpl,73.94 bhp,190Nm@ 2000rpm,5,Silver,5 Speed,FWD,Power,Ventilated Disc,Drum,14 Seconds,DDiS Diesel Engine,3.17 Lakh*
+288,Toyota Innova 2.5 G (Diesel) 8 Seater,2012,Diesel,"1,20,000 kms",2494 CC,First Owner,Manual,12.99 kmpl,100.6 bhp,200Nm@ 1400-3400rpm,8,White,5 Speed,RWD,Power,Ventilated Disc,Leading-Trailing Drum,13.3 Seconds,2KD-FTV Diesel Engine,5.74 Lakh*
+289,Maruti Swift VDI,2013,Diesel,"1,22,590 kms",1248 CC,Second Owner,Manual,22.9 kmpl,74 bhp,190Nm@ 2000rpm,5,White,4 Speed,FWD,Power,Ventilated Disc,Drum,13.75 Seconds,DDiS Diesel Engine,3.13 Lakh*
+290,Renault Duster 110PS Diesel RxZ,2013,Diesel,"80,000 kms",1461 CC,First Owner,Manual,19.01 kmpl,108.45 bhp,248Nm@ 2250rpm,5,Red,5 Speed,FWD,Power,Ventilated Disc,Drum,-,dCi Diesel Engine,3.8 Lakh*
+291,Maruti Ciaz Sigma,2018,Petrol,"36,000 kms",1462 CC,First Owner,Manual,20.65 kmpl,103.25 bhp,138Nm@ 4400rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,-,K15 Smart Hybrid Petrol Engine,7.4 Lakh*
+292,Maruti Alto 800 LXI,2018,Petrol,"11,000 kms",796 CC,First Owner,Manual,24.7 kmpl,47.3 bhp,69Nm@ 3500rpm,5,Silver,5 Speed,FWD,Power,Solid Disc,Drum,19 Seconds,F8D Petrol Engine,3.44 Lakh*
+293,Hyundai i10 Sportz 1.1L,2015,Petrol,"38,000 kms",1086 CC,First Owner,Manual,19.81 kmpl,68.05 bhp,99.04Nm@ 4500rpm,5,Silver,5 Speed AT+ Paddle Shifters,FWD,Power,Ventilated Disc,Drum,14.3 Seconds,IRDE2 Engine,3.74 Lakh*
+294,Maruti Ciaz Delta Automatic BSIV,2018,Petrol,"39,000 kms",1462 CC,First Owner,Automatic,20.28 kmpl,103.25 bhp,138Nm@ 4400rpm,5,Grey,5 Speed,FWD,Power,Ventilated Disc,Drum,-,k15B VVT Engine,8.65 Lakh*
+295,Maruti Swift Dzire ZDI,2017,Diesel,"63,000 kms",1248 CC,First Owner,Manual,28.4 kmpl,74.02 bhp,190Nm@ 2000rpm,5,Silver,5 Speed,FWD,Power,Disc,Drum,13.03 Seconds,DDiS Diesel Engine,6.25 Lakh*
+296,Maruti Swift VDI,2014,Diesel,"92,619 kms",1248 CC,First Owner,Manual,22.9 kmpl,74 bhp,190Nm@ 2000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,13.75 Seconds,DDiS Diesel Engine,3.78 Lakh*
+297,Ford Aspire 1.2 Ti-VCT Titanium,2019,Petrol,"25,000 kms",1196 CC,First Owner,Manual,18.16 kmpl,86.8 bhp,112Nm@ 4000rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,15.7 Seconds,Ti-VCT Petrol Engine,5.9 Lakh*
+298,Honda City 1.5 S AT,2012,Petrol,"72,000 kms",1497 CC,First Owner,Automatic,16.8 kmpl,116.4 bhp,146Nm@ 4800rpm,5,Red,5 Speed,FWD,Power,Disc,Drum,-,SOHC i-VTEC,5.25 Lakh*
+299,Ford EcoSport 1.5 Diesel Titanium Plus BSIV,2017,Diesel,"65,990 kms",1498 CC,First Owner,Manual,23.0 kmpl,98.96 bhp,205Nm@ 1750-3250rpm,5,Grey,5 speed,FWD,Power,Ventilated Disc,Drum,-,TDCi Diesel Engine,6.77 Lakh*
+300,Maruti Ciaz ZDi,2014,Diesel,"1,33,308 kms",1248 CC,First Owner,Manual,26.21 kmpl,88.5 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Ventilated Discs,Drum,15 Seconds,DDIS 200 Engine,4.67 Lakh*
+301,Toyota Etios Liva GD,2012,Diesel,"3,03,954 kms",1364 CC,First Owner,Manual,23.59 kmpl,null bhp,5,5,White,5 Speed,-,Power,-,-,-,null,1.69 Lakh*
+302,Skoda Laura Elegance 2.0 TDI CR MT,2012,Diesel,"99,969 kms",1968 CC,Second Owner,Manual,20.0 kmpl,108.5 bhp,250Nm@ 1500-2500rpm,5,White,5,FWD,Power,Disc,Disc,-,Turbocharged Diesel Engin,2.86 Lakh*
+303,Hyundai Verna VTVT 1.4 E,2018,Petrol,"29,000 kms",1368 CC,First Owner,Manual,19.1 kmpl,98.6 bhp,132.38Nm@ 4000rpm,5,White,6 Speed,FWD,Power,Disc,Drum,11.31 Seconds,Kappa Dual VTVT Petrol En,8.75 Lakh*
+304,Maruti Alto LXi,2010,Petrol,"81,182 kms",796 CC,First Owner,Manual,19.7 kmpl,46.3 bhp,62Nm@ 3000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,17.7 seconds,In-Line Engine,1.22 Lakh*
+305,Hyundai Grand i10 Nios AMT Sportz,2020,Petrol,"11,000 kms",1197 CC,First Owner,Automatic,20.7 kmpl,81.86 bhp,113.75Nm@ 4000rpm,5,Brown,5 Speed,FWD,Electric,Disc,Drum,-,1.2 L Kappa Petrol,6.75 Lakh*
+306,Ford EcoSport 1.5 DV5 MT Titanium,2015,Diesel,"88,255 kms",1498 CC,First Owner,Manual,22.7 kmpl,89.84 bhp,204Nm@ 2000-2750rpm,5,S B Silver,6 Speed,FWD,Power,Ventilated Disc,Drum,13.5 Seconds,TDCi Diesel Engine,5.4 Lakh*
+307,Maruti Eeco 5 Seater AC,2018,Petrol,"75,000 kms",1196 CC,First Owner,Manual,16.11 kmpl,72.42 bhp,98Nm@ 3000rpm,5,-,5 Speed,RWD,Manual,Disc,Drum,15.7 Seconds,G12B,4.6 Lakh*
+308,Maruti Swift AMT DDiS VDI,2017,Diesel,"80,000 kms",1248 CC,Third Owner,Manual,28.4 kmpl,74 bhp,190Nm@ 2000rpm,5,White,5 Speed,-,Power,Disc,Drum,-,DDiS 190 Engine,5.6 Lakh*
+309,Tata Sumo EX BS IV,2010,Diesel,"90,000 kms",2179 CC,First Owner,Manual,14.5 kmpl,null bhp,9,9,Black,5 Speed,-,Power,-,-,-,null,2 Lakh*
+310,Hyundai Elantra CRDi SX AT,2014,Diesel,"65,221 kms",1582 CC,Second Owner,Automatic,19.5 kmpl,126.24 bhp,259.87Nm@ 1900-2750rpm,5,Black,5 Speed,FWD,Power,Disc,Disc,10.2 Seconds,VGT Diesel Engine,5.75 Lakh*
+311,Ford EcoSport 1.5 DV5 MT Titanium Optional,2014,Diesel,"1,55,000 kms",1498 CC,Second Owner,Manual,22.7 kmpl,89.84 bhp,204Nm@ 2000-2750rpm,5,Blue,5 Speed,FWD,Power,Ventilated Disc,Drum,13.5 Seconds,TDCi Diesel Engine,3.3 Lakh*
+312,Hyundai EON Magna Plus,2017,Petrol,"32,067 kms",814 CC,Third Owner,Manual,21.1 kmpl,55.2 bhp,74.5Nm@ 4000rpm,5,Grey,5 Speed,FWD,Power,Disc,Drum,19 Seconds,Petrol Engine,3.35 Lakh*
+313,Honda City i DTec V,2017,Diesel,"47,638 kms",1498 CC,First Owner,Manual,26.0 kmpl,98.6 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Disc,Drum,10 Seconds,i DTEC Diesel Engine,8.5 Lakh*
+314,Maruti Wagon R LXI Minor,2007,Petrol,"1,41,000 kms",1061 CC,Fourth & Above Owner,Manual,18.9 kmpl,67 bhp,84Nm@ 3500rpm,5,-,6 Speed,FWD,Power,Ventilated Disc,Drum,-,FC Petrol Engine,"86,000*"
+315,Hyundai i10 Sportz 1.2,2009,Petrol,"60,000 kms",1197 CC,Third Owner,Manual,20.36 kmpl,78.9 bhp,111.8Nm@ 4000rpm,5,Silver,5 Speed,FWD,Power,Ventilated Disc,Drum,-,DOHC Engine,1.99 Lakh*
+316,Honda Civic 1.8 S AT,2007,Petrol,"1,10,000 kms",1799 CC,Second Owner,Automatic,12.9 kmpl,130 bhp,172Nm@ 4300rpm,5,-,5 Speed,FWD,Power,Ventilated Disc,Disc,11.3 seconds,In-Line Engine,1.95 Lakh*
+317,Maruti Swift Lxi BSIII,2009,Petrol,"75,000 kms",1298 CC,Second Owner,Manual,16.1 kmpl,88.2 bhp,"11.5@ 4,500(kgm@ rpm)",5,Red,8 Speed,-,Power,Ventilated Disc,Drum,12.29 seconds,In-Line Engine,2.65 Lakh*
+318,Renault Duster Petrol RxE,2014,Petrol,"1,20,000 kms",1598 CC,First Owner,Manual,13.24 kmpl,102.57 bhp,145Nm@ 3750rpm,5,-,5 Speed,FWD,Power,Ventilated Disc,Drum,-,K4M Petrol Engine,3.1 Lakh*
+319,Ford Figo Diesel ZXI,2012,Diesel,"1,20,000 kms",1399 CC,First Owner,Manual,20.0 kmpl,68 bhp,160Nm@ 2000rpm,5,White,5,Front Wheel Drive,Power,Ventilated Discs,Drum,14.8 Seconds,Diesel Engine,1.5 Lakh*
+320,Maruti Ertiga SHVS VDI,2016,Diesel,"42,000 kms",1248 CC,First Owner,Manual,24.52 kmpl,88.5 bhp,200Nm@ 1750rpm,7,White,6 Speed,FWD,Power,Ventilated Disc,Drum,13.3 Seconds,D13A SHVS Engine,7.25 Lakh*
+321,Toyota Innova Crysta 2016-2020 2.8 GX AT BSIV,2019,Diesel,"51,000 kms",2755 CC,First Owner,Automatic,11.36 kmpl,171.5 bhp,360Nm@ 1200-3400rpm,7,-,5 Speed,RWD,Power,Disc,Drum,-,1-GD FTV Engine,18.75 Lakh*
+322,Maruti Wagon R VXI 1.2,2019,Petrol,"25,000 kms",1197 CC,First Owner,Manual,20.52 kmpl,81.80 bhp,113Nm@ 4200rpm,5,White,5-Speed,FWD,Power,Disc,Drum,18.6 Seconds,K12M Petrol Engine,5 Lakh*
+323,Maruti Eeco 5 Seater AC BSIV,2016,Petrol,"50,000 kms",1196 CC,Second Owner,Manual,15.37 kmpl,73 bhp,101Nm@ 3000rpm,5,-,6 Speed,RWD,Manual,Ventilated Disc,Drum,15.7 Seconds,In-Line Engine,3.5 Lakh*
+324,Jaguar XF 2.2 Litre Luxury,2013,Diesel,"41,500 kms",2179 CC,First Owner,Automatic,16.36 kmpl,187.7 bhp,450Nm@ 2000rpm,5,Red,5 Speed,RWD,Power,Disc,Disc,8.5 Seconds,Diesel Engine,18.5 Lakh*
+325,Chevrolet Spark 1.0 LS,2011,Petrol,"59,702 kms",995 CC,Second Owner,Manual,18.0 kmpl,62 bhp,90.3Nm@ 4200rpm,5,-,5 Speed,FWD,Power,Disc,Self-Adjusting Drum,14.8 seconds,In-Line Engine,"55,000*"
+326,Maruti Swift AMT VDI,2018,Diesel,"37,383 kms",1248 CC,First Owner,Automatic,28.4 kmpl,74 bhp,190Nm@ 2000rpm,5,-,5 Speed,FWD,Power,Disc,Drum,14.06 Seconds,DDiS 190 Engine,5.9 Lakh*
+327,Hyundai i20 Sportz 1.4 CRDi,2014,Diesel,"70,279 kms",1396 CC,Second Owner,Manual,22.54 kmpl,88.73 bhp,219.7Nm@ 1500-2750rpm,5,White,5 Speed,FWD,Power,Disc,Drum,11.9 Seconds,U2 CRDI Diesel Engine,3.14 Lakh*
+328,Maruti Swift Dzire VDI,2015,Diesel,"48,570 kms",1248 CC,First Owner,Manual,28.4 kmpl,74.02 bhp,190Nm@ 2000rpm,5,Silver,6-Speed,FWD,Power,Disc,Drum,13.03 Seconds,DDiS Diesel Engine,4.86 Lakh*
+329,Datsun RediGO 1.0 S,2018,Petrol,"8,100 kms",999 CC,Second Owner,Manual,22.5 kmpl,67 bhp,91Nm@ 4250rpm,5,-,6 Speed,2WD,Power,Disc,Drum,-,1.0L Petrol Engine,3 Lakh*
+330,Mahindra Thar LX 4-Str Hard Top Diesel,2021,Diesel,"13,395 kms",2184 CC,First Owner,Manual,15.2 kmpl,130 bhp,300nm@ 1600-2800rpm,4,-,6 Speed,4X4,Power,Disc,Drum,-,mHawk 130 Engine,15.84 Lakh*
+331,Maruti Vitara Brezza VDi,2018,Diesel,"52,793 kms",1248 CC,First Owner,Manual,24.3 kmpl,88.5 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,12.36 Seconds,DDiS 200 Diesel Engine,7.7 Lakh*
+332,Maruti Ertiga ZDI,2015,Diesel,"80,000 kms",1248 CC,First Owner,Manual,20.77 kmpl,88.8 bhp,200Nm@ 1750rpm,7,Black,5 Speed,FWD,Power,Disc,Drum,13.3 Seconds,DDiS Diesel Engine,6.2 Lakh*
+333,Maruti Wagon R LXI DUO BSIII,2008,LPG,"1,00,000 kms",1061 CC,First Owner,Manual,17.3 km/kg,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",5,Midnight Blue,5 Speed,-,Power,Disc,Drum,16.6 seconds,In-Line Engine,1 Lakh*
+334,Tata Tiago 1.2 Revotron XT,2018,Petrol,"70,000 kms",1199 CC,First Owner,Manual,23.84 kmpl,84 bhp,114Nm@ 3500rpm,5,White,6 Speed,FWD,Power,Disc,Drum,14.3 Seconds,Revotron Engine,3 Lakh*
+335,Hyundai Venue SX Opt Turbo BSIV,2019,Petrol,"31,492 kms",998 CC,First Owner,Manual,18.27 kmpl,118.35 bhp,171.6Nm@ 1500-4000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,-,-,9.7 Lakh*
+336,Hyundai Creta 1.6 CRDi AT SX Plus,2018,Diesel,"64,000 kms",1582 CC,First Owner,Automatic,17.01 kmpl,126.2 bhp,259.9Nm@ 1900-2750rpm,5,Grey,5 Speed,FWD,Power,Disc,Drum,10.5 Seconds,U2 CRDI VGT Engine,11.5 Lakh*
+337,Hyundai Verna 1.6 SX CRDi (O),2013,Diesel,"70,000 kms",1582 CC,Second Owner,Manual,22.32 kmpl,126.32 bhp,259.8Nm@ 1900-2750rpm,5,Black,5 Speed,FWD,Power,Disc,Disc,10.62 Seconds,Diesel Engine,4.51 Lakh*
+338,Maruti Ertiga ZDI Plus,2019,Diesel,"57,000 kms",1248 CC,First Owner,Manual,20.77 kmpl,88.8 bhp,200Nm@ 1750rpm,7,White,5-Speed,FWD,Power,Disc,Drum,13.3 Seconds,DDiS Diesel Engine,9.7 Lakh*
+339,Maruti Ignis 1.3 Delta,2017,Diesel,"1,20,000 kms",1248 CC,First Owner,Manual,26.8 kmpl,74 bhp,190Nm@ 2000rpm,5,-,7G DCT 7-Speed Dual Clutch Transmission,FWD,Electrical,Disc,Drum,12.85 Seconds,1.3-Litre DDiS Diesel Eng,3.9 Lakh*
+340,Maruti Eeco 5 Seater AC BSIV,2017,Petrol,"50,000 kms",1196 CC,First Owner,Manual,15.37 kmpl,73 bhp,101Nm@ 3000rpm,5,White,7-Speed S-Tronic,RWD,Manual,Ventilated Disc,Drum,15.7 Seconds,In-Line Engine,4 Lakh*
+341,Mahindra XUV300 W6,2019,Petrol,"15,000 kms",1197 CC,First Owner,Manual,17.0 kmpl,108.6 bhp,200Nm@ 2000-3500rpm,5,-,5 Speed,FWD,Power,Disc,Disc,-,1.2L Turbo Petrol,8.75 Lakh*
+342,Renault KWID Climber 1.0 AMT Opt,2021,Petrol,"2,000 kms",999 CC,First Owner,Automatic,22.0 kmpl,67 bhp,91Nm@ 4250rpm,5,Blue,5 Speed,FWD,Electric,Disc,Drum,-,Petrol Engine,5.2 Lakh*
+343,Maruti Swift Vdi BSIII,2011,Diesel,"70,000 kms",1248 CC,Second Owner,Manual,17.8 kmpl,75 bhp,190Nm@ 2000rpm,5,White,6 Speed,-,Power,Ventilated Disc,Drum,13.75 seconds,In-Line Engine,2 Lakh*
+344,Maruti Ritz VDi,2011,Diesel,"70,000 kms",1248 CC,First Owner,Manual,23.2 kmpl,73.94 bhp,190Nm@ 2000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,14 Seconds,DDiS Diesel Engine,2.25 Lakh*
+345,Fiat Grande Punto 1.3 Emotion Pack (Diesel),2012,Diesel,"72,369 kms",1248 CC,Second Owner,Manual,17.8 kmpl,76 bhp,197 Nm at 1750 rpm,5,Megma Gry,5 Speed,FWD,Power,Ventilated Disc,Drum,-,Diesel,"94,000*"
+346,Mercedes-Benz A-Class A200 CDI,2015,Diesel,"67,000 kms",2143 CC,Second Owner,Automatic,20.0 kmpl,107.3 bhp,250Nm@ 1400-2800rpm,5,-,5 Speed,FWD,Power,Disc,Disc,10.6 Seconds,In-line Diesel Engine,13.5 Lakh*
+347,Audi Q3 2.0 TDI,2014,Diesel,"1,18,419 kms",1968 CC,Second Owner,Automatic,15.73 kmpl,174.33 bhp,380Nm@ 1750-2500rpm,5,-,5 Speed,AWD,Power,Ventilated Disc,Drum,8.2 Seconds,TDI Diesel Engine,11 Lakh*
+348,Volkswagen Polo Diesel Comfortline 1.2L,2013,Diesel,"74,261 kms",1199 CC,Second Owner,Manual,22.07 kmpl,73.9 bhp,180Nm@ 2000rpm,5,White,5 speed,FWD,Power,Disc,Drum,14.4 Seconds,In-Line Diesel Engine,1.8 Lakh*
+349,Maruti Swift VDI BSIV,2014,Diesel,"72,558 kms",1248 CC,Second Owner,Manual,25.2 kmpl,74 bhp,190Nm@ 2000rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,14.8 Seconds,DDiS Diesel Engine,3.82 Lakh*
+350,Tata Nexon 1.5 Revotorq XZ Plus,2019,Diesel,"60,833 kms",1497 CC,First Owner,Manual,21.5 kmpl,108.5 bhp,260Nm@ 1500-2750rpm,5,-,5 Speed,FWD,Power,Disc,Drum,13.25 Seconds,"Revotorq, 1.5L Turbocharg",7.81 Lakh*
+351,Maruti Vitara Brezza VDi Option,2018,Diesel,"89,000 kms",1248 CC,First Owner,Manual,24.3 kmpl,88.5 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,12.36 Seconds,DDiS 200 Diesel Engine,7.65 Lakh*
+352,Maruti Alto 800 VXI,2021,Petrol,"5,000 kms",796 CC,First Owner,Manual,22.05 kmpl,47.33 bhp,69Nm@ 3500rpm,5,Blue,5 Speed,FWD,Power,Disc,Drum,-,F8D Petrol Engine,4.1 Lakh*
+353,Toyota Etios Liva GD,2013,Diesel,"70,000 kms",1364 CC,Second Owner,Manual,23.59 kmpl,67.06 bhp,170Nm@ 1800-2400rpm,5,Red,5 Speed,FWD,Power,Ventilated DIsc,Drum,-,D-4D Diesel Engine,2.95 Lakh*
+354,Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,2009,Diesel,"1,92,000 kms",2494 CC,Third Owner,Manual,12.8 kmpl,102 bhp,20.4@ 1400-3400(kgm@ rpm),8,White,5 Speed,-,Power,Ventilated Disc,Drum,17.5 seconds,In-Line Engine,3.5 Lakh*
+355,Renault Duster 85PS Diesel RxL Plus,2013,Diesel,"90,000 kms",1461 CC,Third Owner,Manual,20.45 kmpl,83.8 bhp,200Nm@ 1900rpm,5,White,5-Speed,FWD,Power,Ventilated Disc,Drum,-,dCi Diesel Engine,3.09 Lakh*
+356,Hyundai Verna CRDi 1.6 SX,2017,Diesel,"54,000 kms",1582 CC,First Owner,Manual,22.0 kmpl,126.2 bhp,259.87nm@ 1500-3000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,-,U2 VGT Diesel Engine,7 Lakh*
+357,Maruti Alto LX,2007,Petrol,"1,58,000 kms",796 CC,Fourth & Above Owner,Manual,19.7 kmpl,46.3 bhp,62Nm@ 3000rpm,5,Glasgow Gray,6Speed,2WD,Manual,Disc,Drum,17.7 seconds,In-Line Engine,"50,000*"
+358,Hyundai Santro Xing GLS CNG,2005,CNG,"75,000 kms",1086 CC,First Owner,Manual,11.88 km/kg,62.1 bhp,96.1Nm@ 3000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,16.2 Seconds,Bifuel Engine,1.25 Lakh*
+359,Maruti Ritz VXi,2014,Petrol,"60,000 kms",1197 CC,First Owner,Manual,18.5 kmpl,85.80 bhp,114Nm@ 4000rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,15 Seconds,K Series Petrol Engine,3.65 Lakh*
+360,Ford EcoSport 1.5 Diesel Titanium BSIV,2013,Diesel,"89,000 kms",1498 CC,First Owner,Manual,23.0 kmpl,98.96 bhp,205Nm@ 1750-3250rpm,5,-,5 Speed,FWD,Power,Ventilated Disc,Drum,-,TDCi Diesel Engine,4.95 Lakh*
+361,Maruti Swift Dzire VDI,2014,Diesel,"80,000 kms",1248 CC,First Owner,Manual,23.4 kmpl,74 bhp,190Nm@ 2000rpm,5,-,5 Speed,FWD,Power,Ventilated Disc,Drum,-,DDiS Diesel Engine,4.5 Lakh*
+362,Hyundai i20 1.4 CRDi Magna,2012,Diesel,"90,000 kms",1396 CC,Second Owner,Manual,21.9 kmpl,90 bhp,22.4 kgm at 1750-2750rpm,5,-,5 Speed,-,Power,Disc,Disc,-,Diesel,2.85 Lakh*
+363,Maruti Eeco CNG 5 Seater AC BSIV,2018,CNG,"5,000 kms",1196 CC,First Owner,Manual,21.94 km/kg,61.7 bhp,85Nm@ 3000rpm,5,Black,"5 Speed, 5 Forward, 1 Reverse",RWD,Manual,Disc,Drum,15.7 Seconds,In-Line Engine,4.75 Lakh*
+364,Honda CR-V 2.4L 4WD,2006,Petrol,"65,000 kms",2354 CC,First Owner,Manual,11.1 kmpl,158.8 bhp,218Nm@ 4200rpm,5,-,8 Speed,AWD,Power,Ventilated Disc,Disc,-,i-VTEC Engine,2.5 Lakh*
+365,Hyundai EON D Lite Plus,2014,Petrol,"50,000 kms",814 CC,First Owner,Manual,21.1 kmpl,55.2 bhp,74.5Nm@ 4000rpm,5,Black,5 Speed,FWD,Power,Disc,Drum,19 Seconds,Petrol Engine,2.6 Lakh*
+366,Hyundai Santro Xing XL CNG,2008,CNG,"69,000 kms",1086 CC,Second Owner,Manual,17.0 km/kg,null bhp,5,5,White,5 Speed,-,Power,-,-,-,null,1.8 Lakh*
+367,Mahindra XUV500 W8 2WD,2013,Diesel,"86,000 kms",2179 CC,Second Owner,Manual,15.1 kmpl,140 bhp,330Nm@ 1600-2800rpm,7,White,6 Speed,FWD,Power,Disc & Caliper Type,Disc & Caliper Type,12.5 Seconds,mHawk Diesel Engine,5.75 Lakh*
+368,Volkswagen Polo Diesel Comfortline 1.2L,2011,Diesel,"70,000 kms",1199 CC,Second Owner,Manual,22.07 kmpl,73.9 bhp,180Nm@ 2000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,14.4 Seconds,In-Line Diesel Engine,2 Lakh*
+369,Maruti Eeco CNG 5 Seater AC BSIV,2019,CNG,"15,000 kms",1196 CC,First Owner,Manual,21.94 km/kg,61.7 bhp,85Nm@ 3000rpm,5,-,9 speed Tronic,RWD,Manual,Disc,Drum,15.7 Seconds,In-Line Engine,3.86 Lakh*
+370,Toyota Fortuner 4x2 AT,2014,Diesel,"75,000 kms",2982 CC,Second Owner,Automatic,12.55 kmpl,168.5 bhp,360Nm@ 1400-3200rpm,7,-,5 Speed,FWD,Power,Ventilated Disc,Drum,9.6 Seconds,D-4D Diesel Engine,15.25 Lakh*
+371,Mahindra Bolero Pik-Up FB 1.7T,2019,Diesel,"57,000 kms",2523 CC,First Owner,Manual,0.0 kmpl,70 bhp,200Nm@ 1400-2200rpm,2,Black,5 Speed,FWD,-,-,-,-,m2DiCR Di Turbo Charged,8.25 Lakh*
+372,Volvo S60 D4 SUMMUM,2015,Diesel,"71,000 kms",1984 CC,First Owner,Automatic,9.0 kmpl,181 bhp,400Nm@ 1750-2500rpm,5,White,5 Speed,FWD,Power,Disc,Disc,9.2 Seconds,Turbo Diesel Engine,15.5 Lakh*
+373,Maruti Eeco 7 Seater Standard BSIV,2011,Petrol,"60,000 kms",1196 CC,First Owner,Manual,15.37 kmpl,73 bhp,101Nm@ 3000rpm,7,Silver,6-Speed IMT,RWD,Manual,Ventilated Disc,Drum,15.7 Seconds,In-Line Engine,1.8 Lakh*
+374,Mahindra Xylo E8,2011,Diesel,"1,61,779 kms",2498 CC,First Owner,Manual,14.0 kmpl,112 bhp,260 Nm at 1800-2200 rpm,8,-,6 Speed,2 WD,Power,Ventilated Disc,Drum,-,In-Line Engine,1.41 Lakh*
+375,Hyundai i20 Active 1.4 SX,2015,Diesel,"60,603 kms",1396 CC,First Owner,Manual,21.19 kmpl,88.73 bhp,220Nm@ 1500-2750rpm,5,Violet,5 Speed,FWD,Power,Disc,Drum,15 Seconds,U2 CRDI Diesel Engine,4.9 Lakh*
+376,Hyundai Accent GLE,2010,Petrol,"1,20,000 kms",1495 CC,Second Owner,Manual,13.2 kmpl,94 bhp,"12.5@ 3,500(kgm@ rpm)",5,-,5 Speed,-,Power,Ventilated Disc,Drum,13.1 seconds,In-Line Engine,1.5 Lakh*
+377,Mercedes-Benz GLC 220d 4MATIC,2021,Diesel,"5,000 kms",1950 CC,First Owner,Automatic,0.0 kmpl,194 bhp,400nm@ 2800rpm,5,-,6 Speed,AWD,Power,Disc,Disc,-,OM 654 Diesel engine,64 Lakh*
+378,Hyundai Xcent 1.2 VTVT SX,2020,Petrol,"20,000 kms",1197 CC,First Owner,Manual,20.14 kmpl,81.86 bhp,113.75nm@ 4000rpm,5,White,6 Speed,FWD,Power,Disc,Drum,-,1.2L Kappa Dual VTVT Petr,6.5 Lakh*
+379,Maruti Swift Dzire VDI,2014,Diesel,"90,000 kms",1248 CC,Third Owner,Manual,23.4 kmpl,74 bhp,190Nm@ 2000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,-,DDiS Diesel Engine,3.5 Lakh*
+380,Fiat Grande Punto EVO 1.3 Active,2015,Diesel,"80,000 kms",1248 CC,Second Owner,Manual,21.2 kmpl,75 bhp,197Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,13.6 Seconds,MULTIJET Engine,2.2 Lakh*
+381,Hyundai Venue SX iMT,2020,Petrol,"9,000 kms",998 CC,First Owner,Manual,18.0 kmpl,118.35 bhp,171.6Nm@ 1500-4000rpm,5,-,6 Speed,FWD,Electric,Disc,Drum,-,Kappa 1.0 L Turbo GDi Petrol,9.9 Lakh*
+382,Mahindra XUV500 W6 2WD,2015,Diesel,"116,300 kms",2179 CC,Second Owner,Manual,15.1 kmpl,140 bhp,330Nm@ 1600-2800rpm,7,Brown,5 Speed,FWD,Power,Disc & Caliper Type,Disc & Caliper Type,12.5 Seconds,mHawk Diesel Engine,4.31 Lakh*
+383,Tata Vista TDI LS,2013,Diesel,"2,26,130 kms",1405 CC,First Owner,Manual,19.1 kmpl,70 bhp,135.4Nm@ 2500rpm,5,White,5 Speed,FWD,Power,Disc,Drum,17.2 Seconds,TDi Diesel Engine,"70,000*"
+384,Maruti Swift Dzire ZDi,2012,Diesel,"1,95,642 kms",1248 CC,Second Owner,Manual,19.3 kmpl,73.9 bhp,190Nm@ 2000rpm,5,-,5 Speed,2 WD,Power,Ventilated Disc,Drum,-,In-Line Engine,2.5 Lakh*
+385,Hyundai i20 1.4 CRDi Sportz,2012,Diesel,"1,45,814 kms",1396 CC,First Owner,Manual,23.0 kmpl,90 bhp,22.4 kgm at 1750-2750rpm,5,-,5 Speed,-,Power,Disk,Drum,12.96 Sec,Diesel Engine,2.36 Lakh*
+386,Honda City i DTec V,2017,Diesel,"70,012 kms",1498 CC,First Owner,Manual,26.0 kmpl,98.6 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Disc,Drum,10 Seconds,i DTEC Diesel Engine,7.42 Lakh*
+387,Honda Amaze 2016-2021 E i-DTEC,2017,Diesel,"86,121 kms",1498 CC,First Owner,Manual,25.8 kmpl,98.6 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Disc,Drum,17 Seconds,i-DTEC Diesel Engine,3.96 Lakh*
+388,Ford Figo Petrol ZXI,2010,Petrol,"1,23,289 kms",1196 CC,First Owner,Manual,15.6 kmpl,70 bhp,102Nm@ 4000rpm,5,-,6 Speed AT,Front Wheel Drive,Power,Ventilated Disc,Drum,14.8 Seconds,Petrol Engine,1.14 Lakh*
+389,Honda City i DTEC V,2015,Diesel,"64,953 kms",1498 CC,First Owner,Manual,26.0 kmpl,98.6 bhp,200Nm@ 1750rpm,5,White,5 Speed,FWD,Power,Disc,Drum,10 Seconds,i DTEC Diesel Engine,5.14 Lakh*
+390,Maruti Alto LXi,2010,Petrol,"24,102 kms",796 CC,First Owner,Manual,19.7 kmpl,46.3 bhp,62Nm@ 3000rpm,5,-,6 Speed,FWD,Power,Disc,Drum,17.7 seconds,In-Line Engine,1.16 Lakh*
+391,Maruti Swift LDI,2012,Diesel,"1,64,775 kms",1248 CC,First Owner,Manual,22.9 kmpl,74 bhp,190Nm@ 2000rpm,5,White,5,FWD,Power,Ventilated Disc,Drum,14.8 Seconds,DDiS Diesel Engine,2.37 Lakh*
+392,Force One SX 7 Seating,2013,Diesel,"1,13,263 kms",2149 CC,First Owner,Manual,17.0 kmpl,139.07 bhp,321Nm@ 1600-2400rpm,7,White,5 Speed,RWD,Power,Disc,Drum,-,FMTECH Engine,2.23 Lakh*
+393,Hyundai i10 Era,2010,Petrol,"30,501 kms",1086 CC,First Owner,Manual,19.81 kmpl,68.05 bhp,99.04Nm@ 4500rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,14.3 Seconds,IRDE2 Engine,1.75 Lakh*
+394,Maruti Ritz VDi,2012,Diesel,"82,035 kms",1248 CC,First Owner,Manual,23.2 kmpl,73.94 bhp,190Nm@ 2000rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,14 Seconds,DDiS Diesel Engine,1.93 Lakh*
+395,Maruti Ertiga SHVS VDI,2015,Diesel,"1,14,167 kms",1248 CC,First Owner,Manual,24.52 kmpl,88.5 bhp,200Nm@ 1750rpm,7,White,5 Speed,FWD,Power,Ventilated Disc,Drum,13.3 Seconds,D13A SHVS Engine,5.64 Lakh*
+396,Mini Cooper Countryman One,2014,Petrol,"21,000 kms",1598 CC,First Owner,Automatic,19.23 kmpl,98 bhp,153Nm@ 3000rpm,5,Silver,5 Speed,FWD,Power,Disc,Drum,13.9 Seconds,Petrol Engine,16.5 Lakh*
+397,Hyundai EON Era Plus,2013,Petrol,"30,000 kms",814 CC,First Owner,Manual,21.1 kmpl,55.2 bhp,74.5Nm@ 4000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,19 Seconds,Petrol Engine,4 Lakh*
+398,Ford Endeavour 3.2 Titanium AT 4X4,2018,Diesel,"30,000 kms",3198 CC,First Owner,Automatic,10.91 kmpl,197 bhp,470Nm@ 1750-2500rpm,7,Silver,5 Speed,4WD,Power,Disc,Disc,10.86 Seconds,Diesel Engine,21.5 Lakh*
+399,Maruti Swift DDiS VDI,2015,Diesel,"48,000 kms",1248 CC,First Owner,Manual,28.4 kmpl,74 bhp,190Nm@ 2000rpm,5,White,5 Speed,-,Power,Disc,Drum,-,DDiS 190 Engine,5.25 Lakh*
+400,Toyota Etios G SP,2014,Petrol,"12,000 kms",1496 CC,First Owner,Manual,16.78 kmpl,88.73 bhp,132Nm@ 3000rpm,5,Black,5 Speed,FWD,Power,Ventilated DIsc,Drum,-,Petrol Engine,4.75 Lakh*
+401,Toyota Innova Crysta 2016-2020 2.4 VX MT BSIV,2018,Diesel,"60,000 kms",2393 CC,First Owner,Manual,13.68 kmpl,147.8 bhp,343Nm@ 1400-2800rpm,7,White,6 Speed,RWD,Power,Disc,Drum,-,2-GD FTV Engine,18.51 Lakh*
+402,Hyundai Verna CRDi 1.6 EX,2018,Diesel,"62,000 kms",1582 CC,First Owner,Manual,22.0 kmpl,126.2 bhp,259.87nm@ 1500-3000rpm,5,White,6 Speed,-,Power,Disc,Drum,-,U2 VGT Diesel Engine,7.75 Lakh*
+403,Nissan Micra XV,2010,Petrol,"66,150 kms",1198 CC,First Owner,Manual,18.06 kmpl,75 bhp,104Nm@ 4000rpm,5,Silver,5 Speed,FWD,Power,Ventilated Disc,Drum,15.2 Seconds,In Line Petrol Engine,2.4 Lakh*
+404,Hyundai i10 Magna 1.1L,2014,Petrol,"60,000 kms",1086 CC,First Owner,Manual,19.81 kmpl,68.05 bhp,99.04Nm@ 4500rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,14.3 Seconds,IRDE2 Engine,3.31 Lakh*
+405,Maruti Baleno Alpha 1.2,2016,Petrol,"25,000 kms",1197 CC,First Owner,Manual,21.4 kmpl,83.1 bhp,115Nm@ 4000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,12.36 seconds,VVT Petrol Engine,5.91 Lakh*
+406,Maruti Alto K10 LX,2014,Petrol,"35,000 kms",998 CC,First Owner,Manual,23.95 kmpl,67.05 bhp,90Nm@ 3500rpm,5,White,7 Speed,FWD,Manual,Ventilated Disc,Drum,13.3 Seconds,K Series Petrol Engine,2.8 Lakh*
+407,Hyundai Grand i10 1.2 Kappa Asta,2018,Petrol,"30,000 kms",1197 CC,First Owner,Manual,18.9 kmpl,81.86 bhp,113.75nm@ 4000rpm,5,White,5 Speed,FWD,Power,Disc,Drum,12.9 Seconds,Kappa VTVT Petrol Engine,5.5 Lakh*
+408,Honda City i VTEC SV,2014,Petrol,"65,000 kms",1497 CC,Second Owner,Manual,17.4 kmpl,117.3 bhp,145Nm@ 4600rpm,5,Silver,6 Speed,FWD,Power,Disc,Drum,10 Seconds,i VTEC Engine,5.7 Lakh*
+409,Renault Duster 110PS Diesel RXZ Optional with Nav,2013,Diesel,"1,00,000 kms",1461 CC,First Owner,Manual,19.01 kmpl,108.45 bhp,248Nm@ 2250rpm,5,Grey,5 Speed,FWD,Power,Ventilated Disc,Drum,-,dCi Diesel Engine,6.5 Lakh*
+410,Hyundai i20 1.4 Asta Dual Tone,2018,Diesel,"56,000 kms",1396 CC,First Owner,Manual,22.54 kmpl,88.73 bhp,219.7Nm@ 1500-2750rpm,5,Brown,5 Speed,FWD,Power,Disc,Drum,11.9 Seconds,U2 CRDI Diesel Engine,6.9 Lakh*
+411,Hyundai i10 Magna 1.1L,2013,Petrol,"62,000 kms",1086 CC,First Owner,Manual,19.81 kmpl,68.05 bhp,99.04Nm@ 4500rpm,5,Maroon,5 Speed,FWD,Power,Ventilated Disc,Drum,14.3 Seconds,IRDE2 Engine,3.25 Lakh*
+412,Toyota Innova 2.5 VX (Diesel) 7 Seater BS IV,2012,Diesel,"30,000 kms",2494 CC,First Owner,Manual,12.99 kmpl,100 bhp,200Nm@ 1400-3400rpm,7,White,5 Speed,FWD,Power,Ventilated Disc,Leading-Trailing Drum,-,In-Line Engine,7 Lakh*
+413,Hyundai i10 Magna 1.1L,2014,Petrol,"60,000 kms",1086 CC,Second Owner,Manual,19.81 kmpl,68.05 bhp,99.04Nm@ 4500rpm,5,Blue,4 Speed,FWD,Power,Ventilated Disc,Drum,14.3 Seconds,IRDE2 Engine,3.4 Lakh*
+414,Mercedes-Benz E-Class E250 CDI Avantgarde,2016,Diesel,"49,000 kms",2143 CC,Second Owner,Automatic,13.0 kmpl,204 bhp,500Nm@ 1600-1800rpm,5,Grey,6 Speed,RWD,Power,Ventilated Disc,Solid Disc,7.5 Seconds,In-Line Diesel Engine,26.5 Lakh*
+415,Honda Amaze 2016-2021 E i-DTEC,2017,Diesel,"55,000 kms",1498 CC,First Owner,Manual,25.8 kmpl,98.6 bhp,200Nm@ 1750rpm,5,White,6 Speed,FWD,Power,Disc,Drum,17 Seconds,i-DTEC Diesel Engine,5.5 Lakh*
+416,Jeep Compass 2.0 Limited 4X4,2017,Diesel,"92,000 kms",1956 CC,First Owner,Manual,16.3 kmpl,170 bhp,350Nm@ 1750-2500rpm,5,Brown,5 Speed,4X4,Power,Disc,Discs,10.03 Seconds,2.0-Litre 4-Cyl Multijet,12.4 Lakh*
+417,Volkswagen Vento Diesel Highline,2011,Diesel,"68,000 kms",1598 CC,First Owner,Manual,20.54 kmpl,103.6 bhp,250Nm@ 1500-2500rpm,5,-,6 Speed,FWD,Power,Disc,Drum,-,Common Rail Diesel Engine,3.3 Lakh*
+418,Toyota Fortuner 3.0 Diesel,2010,Diesel,"65,000 kms",2982 CC,Second Owner,Manual,11.5 kmpl,171 bhp,343Nm@ 1400-3400rpm,7,White,5 Speed,4WD,Power,Ventilated Disc,Leading-Trailing Drum,9.6 Seconds,4 Cylinders In-line,8.9 Lakh*
+419,Maruti Vitara Brezza ZDi,2017,Diesel,"56,000 kms",1248 CC,First Owner,Manual,24.3 kmpl,88.5 bhp,200Nm@ 1750rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,12.36 Seconds,DDiS 200 Diesel Engine,7.4 Lakh*
+420,Maruti Swift Dzire LDI Optional,2016,Diesel,"66,200 kms",1248 CC,First Owner,Manual,26.59 kmpl,74 bhp,190Nm@ 2000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,13.8 Seconds,DDiS Diesel Engine,4.6 Lakh*
+421,Hyundai Verna 1.6 CRDi AT SX,2015,Diesel,"52,200 kms",1582 CC,Second Owner,Automatic,19.08 kmpl,126.2 bhp,259.9Nm@ 1900-2750rpm,5,White,5 Speed,FWD,Power,Disc,Drum,10.62 Seconds,U2 VGT Diesel Engine,5.5 Lakh*
+422,Renault Duster 110PS Diesel RxZ,2014,Diesel,"70,249 kms",1461 CC,Second Owner,Manual,19.01 kmpl,108.45 bhp,248Nm@ 2250rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,-,dCi Diesel Engine,5.25 Lakh*
+423,Hyundai Verna CRDi 1.6 EX,2017,Diesel,"60,000 kms",1582 CC,First Owner,Manual,22.0 kmpl,126.2 bhp,259.87nm@ 1500-3000rpm,5,White,5 Speed,-,Power,Disc,Drum,-,U2 VGT Diesel Engine,6.5 Lakh*
+424,Toyota Etios VX,2015,Petrol,"65,000 kms",1496 CC,First Owner,Manual,16.78 kmpl,88.73 bhp,132Nm@ 3000rpm,5,Red,5 Speed,FWD,Power,Ventilated DIsc,Drum,10.6 Seconds,Petrol Engine,3.5 Lakh*
+425,Mahindra XUV500 W8 2WD,2013,Diesel,"70,000 kms",2179 CC,First Owner,Manual,15.1 kmpl,140 bhp,330Nm@ 1600-2800rpm,7,White,6 Speed,FWD,Power,Disc & Caliper Type,Disc & Caliper Type,12.5 Seconds,mHawk Diesel Engine,6.51 Lakh*
+426,Maruti Swift Dzire VDi,2013,Diesel,"52,200 kms",1248 CC,First Owner,Manual,19.3 kmpl,73.9 bhp,190Nm@ 2000rpm,5,Black,5 Speed,2 WD,Power,Ventilated Disc,Drum,-,In-Line Engine,4 Lakh*
+427,Hyundai i20 2015-2017 Asta 1.4 CRDi,2017,Diesel,"47,000 kms",1396 CC,First Owner,Manual,22.54 kmpl,88.73 bhp,219.7Nm@ 1500-2750rpm,5,Red,6 Speed,FWD,Power,Disc,Drum,11.9 Seconds,U2 CRDI Diesel Engine,6.75 Lakh*
+428,Hyundai i10 Magna 1.1L,2013,Petrol,"54,000 kms",1086 CC,First Owner,Manual,19.81 kmpl,68.05 bhp,99.04Nm@ 4500rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,14.3 Seconds,IRDE2 Engine,3.21 Lakh*
+429,Maruti Swift Dzire VDI,2014,Diesel,"62,000 kms",1248 CC,Second Owner,Manual,23.4 kmpl,74 bhp,190Nm@ 2000rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,-,DDiS Diesel Engine,4.75 Lakh*
+430,Honda City 1.5 S MT,2011,Petrol,"47,000 kms",1497 CC,First Owner,Manual,17.0 kmpl,118 bhp,146Nm at 4800 rpm,5,Grey,5 Speed,FWD,Power,Disc,Drum,-,In-Line Engine,4.11 Lakh*
+431,Maruti Wagon R LXI Avance Edition,2015,Petrol,"12,200 kms",998 CC,First Owner,Manual,20.51 kmpl,67.04 bhp,90Nm@ 3500rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,18.6 Seconds,K10B Petrol Engine,3.5 Lakh*
+432,Tata Tiago 1.2 Revotron XM,2017,Petrol,"31,000 kms",1199 CC,First Owner,Manual,23.84 kmpl,84 bhp,114Nm@ 3500rpm,5,Grey,5 Speed,FWD,Power,Disc,Drum,14.3 Seconds,Revotron Engine,4.9 Lakh*
+433,Hyundai Verna 1.6 SX,2013,Diesel,"60,000 kms",1582 CC,Second Owner,Manual,22.32 kmpl,126.32 bhp,259.8Nm@ 1900-2750rpm,5,Silver,5 Speed,FWD,Power,Disc,Disc,10.62 Seconds,Diesel Engine,4.65 Lakh*
+434,Maruti Ciaz 1.4 S,2017,Petrol,"40,000 kms",1373 CC,First Owner,Manual,20.73 kmpl,91.1 bhp,130Nm@ 4000rpm,5,White,5 Speed,2WD,Power,Ventilated Disc,Drum,14 Seconds,k14B VVT Engine,6 Lakh*
+435,Mahindra Scorpio S11,2021,Diesel,"3,20,00 kms",2179 CC,First Owner,Manual,0.0 kmpl,140 bhp,319nm@ 1500-2800rpm,7,White,6 Speed,RWD,Hydraulic,Ventilated Disc,Drum,-,mHawk Diesel Engine,18.5 Lakh*
+436,Maruti Swift VDI BSIV,2019,Diesel,"30,000 kms",1248 CC,First Owner,Manual,25.2 kmpl,74 bhp,190Nm@ 2000rpm,5,White,5 Speed,FWD,Power,Ventilated Disc,Drum,14.8 Seconds,DDiS Diesel Engine,6.5 Lakh*
+437,Mahindra XUV500 W8 AWD,2016,Diesel,"30,000 kms",2179 CC,First Owner,Manual,16.0 kmpl,140 bhp,330Nm@ 1600-2800rpm,7,Silver,5 Speed,AWD,Power,Disc,Disc,10 Seconds,mHawk Diesel Engine,11 Lakh*
+438,Maruti Vitara Brezza VDi AMT,2019,Diesel,"4,500 kms",1248 CC,First Owner,Automatic,24.3 kmpl,88.5 bhp,200Nm@ 1750rpm,5,Grey,6 Speed,FWD,Power,Ventilated Disc,Drum,12.36 Seconds,DDiS 200 Diesel Engine,8.78 Lakh*
+439,Hyundai Verna 1.6 SX,2012,Diesel,"75,000 kms",1582 CC,Second Owner,Manual,22.32 kmpl,126.32 bhp,259.8Nm@ 1900-2750rpm,5,White,4 Speed,FWD,Power,Disc,Disc,10.62 Seconds,Diesel Engine,4 Lakh*
+440,Maruti Ertiga SHVS VDI,2017,Diesel,"45,000 kms",1248 CC,First Owner,Manual,24.52 kmpl,88.5 bhp,200Nm@ 1750rpm,7,Silver,6 Speed,FWD,Power,Ventilated Disc,Drum,13.3 Seconds,D13A SHVS Engine,6.5 Lakh*
+441,Maruti Wagon R Stingray VXI Optional,2017,Petrol,"46,000 kms",998 CC,First Owner,Manual,20.51 kmpl,67.04 bhp,90Nm@ 3500rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,15 Seconds,K 10B Petrol Engine,4.4 Lakh*
+442,Maruti Ciaz 1.3 Delta,2017,Diesel,"87,000 kms",1248 CC,Second Owner,Manual,28.09 kmpl,88.5 bhp,200Nm@ 1750rpm,5,White,7 Speed CVT,FWD,Power,Ventilated Disc,Drum,15 Seconds,DDIS 200 Engine,5.75 Lakh*
+443,Hyundai Verna 1.6 SX CRDi (O),2013,Diesel,"83,000 kms",1582 CC,First Owner,Manual,22.32 kmpl,126.32 bhp,259.8Nm@ 1900-2750rpm,5,Black,5 Speed,FWD,Power,Disc,Disc,10.62 Seconds,Diesel Engine,5.4 Lakh*
+444,Maruti Wagon R Stingray VXI Optional,2017,Petrol,"46,000 kms",998 CC,First Owner,Manual,20.51 kmpl,67.04 bhp,90Nm@ 3500rpm,5,White,4 Speed,FWD,Power,Ventilated Disc,Drum,15 Seconds,K 10B Petrol Engine,4.4 Lakh*
+445,Maruti Ciaz 1.3 Delta,2017,Diesel,"87,000 kms",1248 CC,Second Owner,Manual,28.09 kmpl,88.5 bhp,200Nm@ 1750rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,15 Seconds,DDIS 200 Engine,5.75 Lakh*
+446,Hyundai Verna 1.6 SX CRDi (O),2013,Diesel,"83,000 kms",1582 CC,First Owner,Manual,22.32 kmpl,126.32 bhp,259.8Nm@ 1900-2750rpm,5,White,5 Speed,FWD,Power,Disc,Disc,10.62 Seconds,Diesel Engine,5.4 Lakh*
+447,Hyundai Verna 1.6 CRDi AT SX,2015,Diesel,"55,000 kms",1582 CC,First Owner,Automatic,19.08 kmpl,126.2 bhp,259.9Nm@ 1900-2750rpm,5,White,5 Speed,FWD,Power,Disc,Drum,10.62 Seconds,U2 VGT Diesel Engine,6.9 Lakh*
+448,Mahindra XUV500 2011-2015 W8 FWD,2012,Diesel,"76,000 kms",2179 CC,Second Owner,Manual,15.1 kmpl,140 bhp,330Nm@ 1600-2800rpm,7,Grey,5 Speed,AWD,Power,Disc & Caliper Type,Disc & Caliper Type,12.5 Seconds,mHawk Diesel Engine,5.25 Lakh*
+449,Renault Duster 110PS Diesel RxZ,2013,Diesel,"52,000 kms",1461 CC,First Owner,Manual,19.01 kmpl,108.45 bhp,248Nm@ 2250rpm,5,White,6 Speed,FWD,Power,Ventilated Disc,Drum,-,dCi Diesel Engine,4.9 Lakh*
